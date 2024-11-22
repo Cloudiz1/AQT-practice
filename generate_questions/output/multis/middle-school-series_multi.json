@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "For 10 points each-name these monsters from picture books:",
+      "A": {
+        "question": "This \"lovable, furry\" blue Muppet from Sesame Street realizes that he is the title character at the conclusion of Jon Stone's The Monster at the End of This Book.",
+        "answer": "Grover (accept The Monster at the End of This Book: Starring Lovable, Furry Old Grover )"
+      },
+      "B": {
+        "question": "In a book by Julia Donaldson, a mouse intimidates this monster who has \"knobbly knees,\" a \"poisonous wart,\" and \"purple prickles all over his back.\"",
+        "answer": "Gruffalo [\"GRUFF\"-uh-loh] (accept The Gruffalo)"
+      },
+      "C": {
+        "question": "A picture book by William Steig [styg] introduced this grouchy green ogre [OH-gur], who rides a donkey to the castle of a \"ghastly\" princess.",
+        "answer": "Shrek (accept Shrek!)"
+      }
+    },
+    {
+      "prompt": "In January 2022 this woman surpassed Matt Amodio's [uh-MOH-dee-oh'z] 38-game winning streak.  For 10 points each-",
+      "A": {
+        "question": "Name this woman who is the first openly trans contestant to qualify for a game show's Tournament of Champions.",
+        "answer": "Amy Schneider"
+      },
+      "B": {
+        "question": "Schneider is one of the winningest [\"winning-est\"] contestants in the history of this show once hosted by Alex Trebek [treh-BEK].",
+        "answer": "Jeopardy!"
+      },
+      "C": {
+        "question": "In 2021 this former actress on The Big Bang Theory began sharing Jeopardy! hosting duties with Ken Jennings.",
+        "answer": "Mayim (Chaya) Bialik [\"MY\"-im bee-AH-lik]"
+      }
+    },
+    {
+      "prompt": "A conflict known by this name was ended by the Good Friday Agreement in 1998.  For 10 points each -",
+      "A": {
+        "question": "Ulster loyalists fought republicans in Ireland in a conflict with what generic-sounding nickname?",
+        "answer": "The Troubles (or Na Trioblóidí)"
+      },
+      "B": {
+        "question": "Irish republicans during the Troubles mostly belonged to this Christian church, while loyalists were mostly Protestants.",
+        "answer": "Roman Catholic Church (or Church of Rome)"
+      },
+      "C": {
+        "question": "This Irish nationalist paramilitary group with \"Provisional\" and \"Official\" incarnations participated in the Troubles.",
+        "answer": "IRA [\"I-R-A\"] (or Irish Republican Army; accept Provisional IRA or Official IRA)"
+      }
+    },
+    {
+      "prompt": "One of these gems known as La Peregrina [peh-reh-GREE-nuh] has been owned by both Mary I and actress Elizabeth Taylor.  For 10 points each -",
+      "A": {
+        "question": "Identify this type of gemstone that gives an alternate name for boba or bubble tea.",
+        "answer": "pearl (accept pearl (milk) tea)"
+      },
+      "B": {
+        "question": "Pearl is the daughter of Hester Prynne [prin] in this author's novel The Scarlet Letter.",
+        "answer": "Nathaniel Hawthorne (or Nathaniel Hathorne)"
+      },
+      "C": {
+        "question": "After a stint at the University of Tennessee, Bruce Pearl was hired as the men's basketball coach of this other SEC school whose former athletes include Charles Barkley and Cam Newton.",
+        "answer": "Auburn University"
+      }
+    },
+    {
+      "prompt": "These geological features are formed in orogenies [oh-RAH-juh-neez].  For 10 points each -",
+      "A": {
+        "question": "Name these tall geological features found in namesake \"ranges,\" like the Himalayas.",
+        "answer": "mountains (accept mountain ranges or Andes Mountains or Himalayan Mountains)"
+      },
+      "B": {
+        "question": "Orogenies often occur near \"zones\" named for this process, in which a tectonic plate moves beneath another plate.",
+        "answer": "subduction [\"sub-DUCK-shin\"] (accept subducting or subduction zones)"
+      },
+      "C": {
+        "question": "Subduction zones are found at this type of plate boundary in which the plates move toward each other.",
+        "answer": "convergent plate boundary"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these areas around the globe with something in common:",
+      "A": {
+        "question": "The headquarters of Samsung and Hyundai [hun-day] are in Seoul [\"soul\"], the capital of this East Asian country.",
+        "answer": "South Korea (or Republic of Korea or ROK or Taehan-min'guk or Han'guk; prompt on \"Korea\"; do not accept or prompt on \"North Korea\" or \"Democratic People's Republic of Korea\")"
+      },
+      "B": {
+        "question": "Juba [JOO-bah] is the capital of this African country, which broke off from its neighbor and declared independence in 2011.",
+        "answer": "South Sudan (or Republic of South Sudan; do not accept or prompt on \"Sudan\" or \"Southern Sudan\")"
+      },
+      "C": {
+        "question": "In 2008 this country fought Russia over the disputed region of South Ossetia [oh-SEH-tee-uh].  This country is the northernmost of the three \"Caucasian States.\"",
+        "answer": "Georgia (or Sak'art'velo)"
+      }
+    },
+    {
+      "prompt": "An unnamed giant built the walls around this domain.  For 10 points each -",
+      "A": {
+        "question": "Name this home realm of the Aesir [AA-seer], the major Norse gods.",
+        "answer": "Asgard [AZ-\"guard\"] (or Asgardr)"
+      },
+      "B": {
+        "question": "The mysterious giant built Asgard's walls with help from Svadilfari [SVAH-dil-far-ee], one of these animals who was later seduced by a shapeshifted Loki.",
+        "answer": "horses (or stallions)"
+      },
+      "C": {
+        "question": "The builder of the walls of Asgard asked for Freya, and these two celestial objects, known as Mani and Sol, as payment",
+        "answer": "(the) Sun   (Earth's) Moon (or Luna) (accept answers in either order)"
+      }
+    },
+    {
+      "prompt": "This phenomenon's speed is measured by anemometers [ANN-uh-MOM-uh-turs].  For 10 points each -",
+      "A": {
+        "question": "Name these moving air currents, which include breezes and gusts.",
+        "answer": "wind(s)"
+      },
+      "B": {
+        "question": "The effects of wind are quantified on this scale named for an Irish rear admiral, on which a strong breeze corresponds to \"Force 6.\"",
+        "answer": "Beaufort [BOH-furt] (wind force) scale"
+      },
+      "C": {
+        "question": "These systems are ranked by wind speed on a five-category scale partly named for Herbert Saffir.  Their wind speeds must exceed 74 miles per hour.",
+        "answer": "hurricanes (or (tropical) cyclones; accept typhoons or hurricane-force winds; do not accept or prompt on \"tornado(es)\" or \"whirlwind(s)\") [Hurricanes are categorized on the Saffir -Simpson scale.]"
+      }
+    },
+    {
+      "prompt": "This man succeeded his mentor, Johnny Torrio, as head of a group known as the \"Outfit.\"  For 10 points each -",
+      "A": {
+        "question": "Name this gangster who ordered a 1929 \"hit\" against his longtime nemesis Bugs Moran.",
+        "answer": "Al Capone [kuh-POHN] (or Alphonse (Gabriel) Capone; prompt on \"Scarface\")"
+      },
+      "B": {
+        "question": "The 1929 strike that Capone ordered against Moran was known as a \"massacre\" named for this February 14 holiday on which the attack took place.",
+        "answer": "Valentine's Day (accept Saint Valentine's Day Massacre)"
+      },
+      "C": {
+        "question": "Capone was never implicated in the massacre, but after being convicted of tax evasion he was jailed at this federal prison on an island in San Francisco Bay.",
+        "answer": "Alcatraz Federal Penitentiary (or Alcatraz Island; prompt on \"(The) Rock\")"
+      }
+    },
+    {
+      "prompt": "During this woman's trial, she claimed her actions were influenced by her ex -boyfriend Ramesh Balwani [rah-MESH bahl-WAH-nee].  For 10 p oints each-",
+      "A": {
+        "question": "Name this female Silicon Valley startup founder who in January 2022 was found guilty of wire fraud and conspiracy to defraud investors.",
+        "answer": "Elizabeth (Anne) Holmes"
+      },
+      "B": {
+        "question": "Holmes founded this company, which lied about the capabilities of its \"Edison\" machine to conduct medical tests with only a few drops of blood.",
+        "answer": "Theranos [THAIR-uh-nohss]"
+      },
+      "C": {
+        "question": "Theranos's fraud was exposed in a 2015 article in this newspaper, whose name refers to a road synonymous with New York's financial sector.",
+        "answer": "The Wall Street Journal (or WSJ)"
+      }
+    },
+    {
+      "prompt": "Opera singer Joan Sutherland had the \"coloratura\" type of this vocal range.  For 10 points each -",
+      "A": {
+        "question": "Name this highest of the four standard vocal ranges.",
+        "answer": "soprano (accept lyric soprano or coloratura soprano)"
+      },
+      "B": {
+        "question": "A soprano clef is a stylized version of this letter, placed on the lowest line of the staff.  The alto and tenor clefs are also stylized versions of this letter.",
+        "answer": "C (accept C clef(s))"
+      },
+      "C": {
+        "question": "A singer whose range lies between soprano and alto is often described by placing this five-letter Italian word before \"soprano.\"  It's also placed before \"forte\" in a dynamic meaning \"medium loud.\"",
+        "answer": "mezzo (accept mezzo-soprano or mezzo-forte)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about lakes in the western U.S.:",
+      "A": {
+        "question": "This lake, which is the largest alpine lake in North America, is between Nevada and California.",
+        "answer": "Lake Tahoe"
+      },
+      "B": {
+        "question": "The construction of Garrison Dam created Lake Sakakawea, which is the largest man -made lake in this state that is governed from Bismarck [BIZ-mark].",
+        "answer": "North Dakota (accept ND [\"N-D\"])"
+      },
+      "C": {
+        "question": "This lake in northern Utah is a remnant of the prehistoric Lake Bonneville.  The Jordan River empties into this lake.",
+        "answer": "Great Salt Lake"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these parts of a cell:",
+      "A": {
+        "question": "These organelles help break down long-chain fatty acids.  As a byproduct, they produ ce a namesake compound with formula H2O2 [\"H two O two\"].",
+        "answer": "peroxisomes [H2O2 is hydrogen peroxide]"
+      },
+      "B": {
+        "question": "These organelles are the site of translation, and they are responsible for assembling proteins.",
+        "answer": "ribosomes [RYE-boh-sohmz]"
+      },
+      "C": {
+        "question": "Ribosomes are assembled in a structure within this central organelle of the cell.  It contains the chromosomes.",
+        "answer": "cell nucleus [Ribosomes are assembled in the nucleolus.]"
+      }
+    },
+    {
+      "prompt": "Harold Bloom called this book the first modern novel.  For 10 points each -",
+      "A": {
+        "question": "Name this novel by Miguel de Cervantes [mee-GEL day sayr-VAHN-tayss] about a man who fancies himself a knight.",
+        "answer": "Don Quixote [dohn kee-HOH-tay] (or The Ingenious Gentleman Don Quixote de la Mancha or El ingenioso hidalgo don Quijote de la Mancha)"
+      },
+      "B": {
+        "question": "In an iconic scene, Don Quixote tilts at some of these items that he mistakes for giants.",
+        "answer": "windmills"
+      },
+      "C": {
+        "question": "Don Quixote rides this bony, clumsy horse which he imagines as a beautiful steed.",
+        "answer": "Rocinante [roh-see-NAHN-tay]"
+      }
+    },
+    {
+      "prompt": "In England, these laws were called the Coercive Acts.  For 10 points each -",
+      "A": {
+        "question": "Give this collective name for four harsh laws Parliament passed in 1774 to punish colonists in Massachusetts.",
+        "answer": "Intolerable Acts"
+      },
+      "B": {
+        "question": "The Intolerable Acts were a response to this destructive 1773 protest in which cases of a certain beverage were dumped into Boston Harbor.",
+        "answer": "Boston Tea Party"
+      },
+      "C": {
+        "question": "The Intolerable Acts led colonists to form the first of these assemblies in Philadelphia.  Its second version, convened in 1775, drafted the Declaration of Independence.",
+        "answer": "(First) Continental Congress (prompt on \"Congress\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer these questions about lunar space probes:",
+      "A": {
+        "question": "The first man-made probe to land on the Moon, Luna 2, was launched in 1959 by what C ommunist country that also launched Sputnik?",
+        "answer": "Soviet Union (or USSR or Union of Soviet Socialist Republics or Sovietsky Soyuz or S.S.S.R. or Soyuz Sovietskikh Sotsialisticheskikh Respublik)"
+      },
+      "B": {
+        "question": "The first U.S. probe to study the Moon belonged to what program, whose probes 10 and 11 escaped the solar system while carrying engraved golden plates?  It preceded the Voyager program.",
+        "answer": "Pioneer program (accept Pioneer Plates)"
+      },
+      "C": {
+        "question": "In 2019 what country's lunar probe Chang'e 4 [chang-uh \"four\"] became the first to land on the far side of the Moon?",
+        "answer": "China (or People's Republic of China or PRC or Zhongguo or Zhonghua Renmin Gongheguo; do not accept or prompt on \"Republic of China\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these American authors who lived as recluses:",
+      "A": {
+        "question": "This author, who wrote about the teenager Holden Caulfield in The Catcher in the Rye, lived reclusively in New Hampshire from 1961 until his death in 2010.",
+        "answer": "J. D. Salinger [SAL-in-jur] (or Jerome David Salinger)"
+      },
+      "B": {
+        "question": "This author of the poem \"Because I could not stop for Death\" lived a secluded life in Amherst, Mass achusetts.",
+        "answer": "Emily (Elizabeth) Dickinson"
+      },
+      "C": {
+        "question": "This postmodern author of V. and The Crying of Lot 49 has not been publicly photographed since the 1950s and lives in an undisclosed location.",
+        "answer": "Thomas Pynchon [\"PINCH\"-un] (or Thomas Ruggles Pynchon Jr.)"
+      }
+    },
+    {
+      "prompt": "A number of progressives suggested that this man should retire following the 2020 elections.  For 10 points each-",
+      "A": {
+        "question": "Name this liberal Supreme Court justice who announced his retirement in January 2022.",
+        "answer": "Stephen (Gerald) Breyer"
+      },
+      "B": {
+        "question": "Democrats hope that Breyer's retirement opens the door for a future justice who will resist efforts to overturn this landmark 1973 abortion case.",
+        "answer": "Roe v. Wade"
+      },
+      "C": {
+        "question": "This man, who was the last Supreme Court nominee by a Democratic president, never received a congressional hearing and currently serves in the Biden administration.",
+        "answer": "Merrick (Brian) Garland"
+      }
+    },
+    {
+      "prompt": "Pencil and paper ready.  A student received a score of 85 percent on a recent test.  For 10 points each -",
+      "A": {
+        "question": "Assuming each question was worth the same value, and no partial credit was given, what is the minimum number of test questions that would allow a student to answer exactly 85 percent of the questions correctly?",
+        "answer": "20 questions [85% = 85/100 = 17/20, which is in lowest terms.]"
+      },
+      "B": {
+        "question": "If there were 40 questions on the test, how many questions did the student answer correctly?",
+        "answer": "34 questions [85% of 40 = 0.85 * 40 = (0.8 * 40) + (0.05 * 40) = 32 + 2 = 34]"
+      },
+      "C": {
+        "question": "What percentage score must the student receive on a second test to raise her mean average for the two tests to 92 percent?  You have 10 seconds.",
+        "answer": "99% [M = (85 + x)/2 = 92, so 85 + x = 184, and x = 99]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about things named after coffee:",
+      "A": {
+        "question": "This Baroque composer of the Brandenburg Concertos depicted Lieschen's [LEE-shen's] addiction to the drink in his humorous Coffee Cantata.",
+        "answer": "Johann Sebastian Bach (or J. S. Bach)"
+      },
+      "B": {
+        "question": "Sun Microsystems developed this \"write once, run anywhere\" programming language whose logo is a coffee cup, and whose name is a nickname for coffee.",
+        "answer": "Java"
+      },
+      "C": {
+        "question": "Caffeine, which is named for being first isolated from coffee, works by blocking adenosine from accumulating in these gaps between neurons, across which neurons send signals.",
+        "answer": "synapses"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about logical arguments:",
+      "A": {
+        "question": "This term refers to the statements in the body of an argument from which the argument's conclusions are drawn.",
+        "answer": "premises"
+      },
+      "B": {
+        "question": "This kind of argument defined by Aristotle [\"AIR\"-ih-stah-tul] deduces a conclusion from two premises.  \"All men are mortal, John is a man, therefore John is mortal\" is one of these arguments.",
+        "answer": "syllogisms [SIH-luh-JIZMS] (or syllogistic argument)"
+      },
+      "C": {
+        "question": "The conclusion of a syllogism only has this property if the premises do.  This property is the opposite of falsehood.",
+        "answer": "truth (or true)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these shapes related to circles:",
+      "A": {
+        "question": "Revolving a circle about an axis in the same plane and not through the circle's center produces this donut -like 3D shape.",
+        "answer": "torus(es) (accept tori; accept toroidal surface(s))"
+      },
+      "B": {
+        "question": "This hollow round shape is the 3D equivalent of a circle.",
+        "answer": "sphere(s) (do not accept or prompt on \"ball\")"
+      },
+      "C": {
+        "question": "This is the name for the ring-like region between two concentric circles.",
+        "answer": "annulus [AN-yoo-luss] (accept annuli)"
+      }
+    },
+    {
+      "prompt": "In 1903 this country declared independence from Colombia.  For 10 points each -",
+      "A": {
+        "question": "Name this Central American country that immediately authorized the building of a namesake U.S. -controlled canal.",
+        "answer": "Panama (or Republic of Panama or República de Panamá)"
+      },
+      "B": {
+        "question": "This Republican president backed Panamanian secession from Colombia followin g Colombia's failure to ratify a canal treaty.",
+        "answer": "Theodore Roosevelt (or Teddy Roosevelt or TR; prompt on \"Roosevelt\")"
+      },
+      "C": {
+        "question": "This president signed a treaty with Panama's leader Omar Torrijos [toh-REE-hohss] to transfer control of the canal from the U.S.  The Mariel [mah-ree-EL] Boatlift from Cuba began when he was president.",
+        "answer": "Jimmy Carter (or James Earl Carter Jr; accept Torrijos-Carter Treaty or Torrijos-Carter Treaties)"
+      }
+    }
+  ]
+}

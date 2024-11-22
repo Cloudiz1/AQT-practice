@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "Xenobots [ZEE-noh-bots] are synthetic lifeforms designed using evolutionary algorithms.  For 10 points each -",
+      "A": {
+        "question": "The first xenobots were created using cells from Xenopus laevis [ZEN-uh-puss LAY-viss], the \"African clawed\" species of this animal.",
+        "answer": "African clawed frog(s) (accept African clawed toad(s))"
+      },
+      "B": {
+        "question": "Xenobots are made from skin cells and this type of tissue that is multinucleated [\"multi\"-NOO-klee-AY-tid] and striated [STRYE-ay-tid].",
+        "answer": "cardiac muscle or cardiac myocytes or heart muscle (or myocardium; prompt on partial answers)"
+      },
+      "C": {
+        "question": "This two-word phrase refers to the way that the xenobots were designed via computer simulation.  This phrase is modeled on similar phrases like in vivo and in vitro.",
+        "answer": "in silico [in SIL-ih-koh]"
+      }
+    },
+    {
+      "prompt": "The last line of this poem repeats words like \"pleasing\" and \"prince\" from its first line.  For 10 points each -",
+      "A": {
+        "question": "Name this Middle English poem in which a man loses the title precious object and dreams that it is reborn as a woman on the far bank of a stream.",
+        "answer": "Pearl (or Perle)"
+      },
+      "B": {
+        "question": "The anonymous Pearl Poet is also thought to have written a poem in which this character is ensnared in a \"beheading game\" by the Green Knight.",
+        "answer": "Sir Gawain (accept Sir Gawain and the Green Knight)"
+      },
+      "C": {
+        "question": "The Pearl Poet was a contemporary of this friend of Geoffrey Chaucer who wrote Vox Clamantis [vox klah-MAHN-tiss] and Confessio Amantis [kohn-FESS-ee-oh ah-MAHN-tiss].",
+        "answer": "John Gower"
+      }
+    },
+    {
+      "prompt": "Artemas Ward ordered the fortification of this site.  For 10 points each -",
+      "A": {
+        "question": "William Prescott commanded the Patriot defense at what battle, where most fighting actually occurred at a site named for the Breed family?",
+        "answer": "Battle of Bunker Hill"
+      },
+      "B": {
+        "question": "Aaron Montgomery Ward oversaw one of these businesses which became prominent in the early 20th century.  Marshall Field's and Wanamaker's were this kind of business.",
+        "answer": "department stores"
+      },
+      "C": {
+        "question": "Ward McAllister popularized the notion that this many people comprised New York's high society in the Gilded Age, though McAllister's actual list contained only 150.",
+        "answer": "400"
+      }
+    },
+    {
+      "prompt": "In this film, Max's wife Kim notices that the protagonist is wearing the same fancy bracelet that Max bought for her.  For 10 points each -",
+      "A": {
+        "question": "Name this 2020 comedy by Emma Seligman about a young Jewish woman named Danielle attending the title event.",
+        "answer": "Shiva Baby"
+      },
+      "B": {
+        "question": "Many reviewers compared the horror film-like tension in Shiva Baby to this 2019 film about the gambling addict Howard Ratner.",
+        "answer": "Uncut Gems"
+      },
+      "C": {
+        "question": "Seligman has cited these directors of No Country for Old Men and Fargo as an influence on Shiva Baby.",
+        "answer": "Coen brothers (or Coens; or Joel and Ethan Coen)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about musique concrète [\"music\" kohn-KRET], which involves the recording, manipulation, and assembly of sounds on a medium such as tape:",
+      "A": {
+        "question": "The first of composer Pierre Schaeffer's Cinq études de bruits [SAHNK ay-TOOD day broo-EE]-the first ever musique concrète works-was based on the sounds of these vehicles.  Arthur Honegger depicted one of t hem in Pacific 231.",
+        "answer": "trains or locomotives"
+      },
+      "B": {
+        "question": "Schaeffer's other musique concrète works include a symphony for this number of people, the number of channels in a monophonic recording.",
+        "answer": "1 (or solo; accept Symphonie pour un homme seul or Symphony for One Man Alone)"
+      },
+      "C": {
+        "question": "This composer applied musique concrète techniques to a recording of a boy soprano in his landmark Gesang der Jünglinge [geh-ZAHNG dair YOONG-ling-geh].  He called for three orchestras  in his Gruppen [GROO-pen].",
+        "answer": "Karlheinz Stockhausen [\"STOCK-how\"-zin]"
+      }
+    },
+    {
+      "prompt": "U.S. ambassador Henry Lane Wilson facilitated the \"Pact of the Embassy,\" in which Félix Díaz [FAY-leeks DEE-ahz] allied with this general to carry out a military coup [koo].  For 10 points each -",
+      "A": {
+        "question": "Name this man who bombarded the capital city he was supposedly defending against the rebellion of Díaz.",
+        "answer": "Victoriano Huerta [veek-toh-ree-AH-noh \"WARE\"-tah] (or José Victoriano Huerta Márquez)"
+      },
+      "B": {
+        "question": "Huerta and Díaz agreed to the Pact of the Embassy at the end of this February 1913 period, whose name refers to suffering endured by residents of Mexico City.",
+        "answer": "Ten Tragic Days (or the Tragic Ten Days or La Decena Trágica)"
+      },
+      "C": {
+        "question": "Díaz and Huerta overthrew this president, who had led the 1910 uprising that began the Mexican Revolution and ended the Porfiriato [por-feer-ee-AH-toh].",
+        "answer": "Francisco Madero [mah-\"DARE\"-oh] (or Francisco Ignacio Madero González or Francisco Ygnacio Madero González; accept Francisco Indalecio Madero González) [The Porfiriato was named after the dictator Porfirio Díaz, who was the uncle of Félix Díaz.]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the field of ethnobotany:",
+      "A": {
+        "question": "Early ethnobotany included work among the Sámi [SAH-mee] people by this scientist, who published the tenth edition of Systema Naturae in 1758.",
+        "answer": "Carolus Linnaeus [KAR-oh-luss lih-NAY-uss] (or Carl Linnaeus or Carl von Linné)"
+      },
+      "B": {
+        "question": "Ethnobotanist Mark Plotkin's works include some \"tales\" of apprenticeship to one of these people who visit the spirit world while in a state of altered consciousness.  Their name comes from a Tungusic language.",
+        "answer": "shamans (accept Tales of a Shaman's Apprentice)"
+      },
+      "C": {
+        "question": "Ethnobotanist Weston La Barre studied the use of this drug.  The case Employment Division v. Smith held that firing someone for using it did not violate the free exercise clause.",
+        "answer": "peyote [pay-OH-tee]"
+      }
+    },
+    {
+      "prompt": "For functions f and g of variables p and q, this operation equals \"df/dp dg/dq\" [\"D-F D-P times D-G D-Q\"], minus \"df/dq dg/dp\" [\"D-F D-Q times D-G D-P\"].  For 10 points each -",
+      "A": {
+        "question": "Identify this operation named for a French physicist.",
+        "answer": "Poisson bracket [pwah-SOHN \"bracket\"] (prompt on partial answer)"
+      },
+      "B": {
+        "question": "A variable A is a constant of motion if dA/dt [\"D-A D-T\"] equals the Poisson bracket of A with this quantity.  It represents the total energy of a system.",
+        "answer": "Hamiltonian"
+      },
+      "C": {
+        "question": "This man introduced the notion of first class constraints, whose Poisson bracket with all other constraints vanishes in a Hamiltonian system.  His namesake delta function is an infin itely tall, infinitely thin spike.",
+        "answer": "Paul Dirac [dih-RAHK] (or Paul Adrien Maurice Dirac; accept Dirac delta function)"
+      }
+    },
+    {
+      "prompt": "A child is attacked by a fairy king in this author's poem \"Erlkönig\" [AYRL-kur-neeg].  For 10 points each -",
+      "A": {
+        "question": "Name this author of the novel The Sorrows of Young Werther.",
+        "answer": "Johann Wolfgang von Goethe [GUR-tuh]"
+      },
+      "B": {
+        "question": "Goethe wrote two poems of this title, one of which was supposedly written under an oak, the other of which w as written in on the wall of a cabin.",
+        "answer": "Wanderer's Nightsong (or Wandrers Nachtlied)"
+      },
+      "C": {
+        "question": "A collection of elegies was inspired by Goethe's travels in 1768 and 1788 in what is now this country.",
+        "answer": "Italy (or Italian Republic or Italia or Repubblica Italiana)"
+      }
+    },
+    {
+      "prompt": "This artist made a 15th-century drawing of a chalice that looks strikingly like a wireframe image used in modern 3D modeling.  For 10 points each -",
+      "A": {
+        "question": "Name this artist of three paintings of the Battle of San Romano.",
+        "answer": "Paolo Uccello [oo-CHAY-loh] (or Paolo di Dono)"
+      },
+      "B": {
+        "question": "Uccello's wireframe chalice was a study for this drafting technique that depends on a vanishing point.",
+        "answer": "linear perspective (or point-projection perspective; accept one-point perspective)"
+      },
+      "C": {
+        "question": "Uccello made a wireframe study of a mazzocchio [mah-ZOH-kee-oh], a doughnut-shaped type of headgear shown in his Life of Noah frescoes in the Green Cloister of this church that also contains Masaccio's The Holy Trinity.",
+        "answer": "Santa Maria Novella"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about military epithets referring to thunderbolts:",
+      "A": {
+        "question": "The twelfth of these largest units in the Imperial Roman Army, which contained 3,000 to 6,000 men, was  nicknamed fulminata [\"fool-me\"-NAH-tah] or \"thunderbolt.\"",
+        "answer": "legions (or legio; accept Legio XII Fulminata)"
+      },
+      "B": {
+        "question": "This Ottoman sultan was nicknamed \"the Thunderbolt\" after crushing a crusader army at Nicopolis [nik-AH-puh-liss].",
+        "answer": "Bayezid I (accept Yildirim Bayezid; prompt on \"Bayezid\")"
+      },
+      "C": {
+        "question": "A man of this name known as Keraunos [keh-RAO-nohs], or \"thunderbolt,\" seized Macedonia after the Battle of Corupedium [kuh-rup-EE-dee-um].  The thirteenth of another line of kings of this name drowned while fleeing his sister's forces in 47 B",
+        "answer": "Ptolemy (or Ptolemaeus or Ptolemaios; accept Ptolemy Keraunos or Ptolemy XIII)"
+      }
+    },
+    {
+      "prompt": "A character in this story commits suicide with pills and sherry after discover ing that her lover has taken Madge to a restaurant.  For 10 points each -",
+      "A": {
+        "question": "Name this Margaret Atwood short story that begins \"John and Mary meet. What happens next?\" and imagines six possible outcomes.",
+        "answer": "Happy Endings"
+      },
+      "B": {
+        "question": "The Testaments is the sequel to this Atwood novel, in which fertile women in the Republic of Gilead are forced to produce children.",
+        "answer": "The Handmaid's Tale"
+      },
+      "C": {
+        "question": "This Booker-winning 2000 Atwood novel cuts between Iris Chase Griffen's present life, her p ast life, and the title novel-within-a-novel, which is credited to her sister Laura.",
+        "answer": "The Blind Assassin"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about gene expression:",
+      "A": {
+        "question": "To synthesize mRNA from a gene, RNA polymerase [puh-LIM-uh-\"RACE\"] must bind to what short region just upstream of the gene?",
+        "answer": "promoter region"
+      },
+      "B": {
+        "question": "The expression of a gene can be increased when an activator protein binds to one of these regions, which may be upstream or downstream from a gene and up to one megabase pairs away.",
+        "answer": "enhancers"
+      },
+      "C": {
+        "question": "This protein complex that holds sister chromatids [\"CROW\"-muh-tids] together during cell division appears to form the loops responsible for bringing enhancers and promoters together.",
+        "answer": "cohesin [koh-HEE-zin]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about psychologist D. W. Winnicott:",
+      "A": {
+        "question": "Winnicott posited \"true and false\" versions of this concept.  Charles Cooley theorized a \"looking -glass\" version of this concept.",
+        "answer": "self (accept true and false self or looking-glass self)"
+      },
+      "B": {
+        "question": "Winnicott wrote a book titled for this behavior \"and reality.\"  The \"deep\" form of this activity titles a Clifford Geertz essay on cockfighting.",
+        "answer": "play (or playing games; accept Playing and Reality; accept Deep Play: Notes on the Balinese Cockfight)"
+      },
+      "C": {
+        "question": "Winnicott argued that the \"capacity to be alone\" develops in the \"presence of\" this kind of person.  Attachment to an adult with this role is tested in Mary Ainsworth's \"strange situation\" experiment.",
+        "answer": "mother (prompt on \"parent\")"
+      }
+    },
+    {
+      "prompt": "Chicago gangs are the subject of this man's first novel, Diversey.  For 10 points each -",
+      "A": {
+        "question": "Name this author who told the story of a prisoner-of-war camp that houses a gang known as \"The Raiders\" in 1955 novel.",
+        "answer": "MacKinlay Kantor [That novel is Andersonville.]"
+      },
+      "B": {
+        "question": "Kantor's Andersonville is set during this war, which is also the setting of Stephen Crane's The Red Badge of Courage.",
+        "answer": "(American) Civil War"
+      },
+      "C": {
+        "question": "The Civil War is a popular subject of novels in this genre, including a 1961 novel by Kantor.  Harry Turtledove's Southern Victory series is in this genre.",
+        "answer": "alternate history (or althist or AH; prompt on \"speculative fiction\")"
+      }
+    },
+    {
+      "prompt": "This island's Maho Beach is near an airport runway, leading planes to pass very closely over it.  For 10 points each-",
+      "A": {
+        "question": "Name this Caribbean island that is divided between two European countries.  It was heavily damaged by Hurricane Irma in 2017.",
+        "answer": "Saint Martin (or Sint Maarten)"
+      },
+      "B": {
+        "question": "Saint Martin lies east of this island, the largest U.S. territory in the Caribbean.",
+        "answer": "Puerto Rico [PWAIR-toh REE-koh] (or Commonwealth of Puerto Rico or Estado Libre Asociado de Puerto Rico)"
+      },
+      "C": {
+        "question": "Today, control of Saint Martin is split between France and this European country, which also controls Aruba and Curaçao [kurr-uh-SAUW].",
+        "answer": "The Netherlands (or Kingdom of the Netherlands or Koninkrijk der Nederlanden; accept Holland)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about British war photographer Roger Fenton:",
+      "A": {
+        "question": "Fenton was sent to document this war, in which British troops fought at the Battle of Inkerman.",
+        "answer": "Crimean War"
+      },
+      "B": {
+        "question": "Fenton's photographs depicted the siege of this Russian port and naval base, which was defended by the Malakoff Redoubt.",
+        "answer": "Sevastopol (or Sebastopol)"
+      },
+      "C": {
+        "question": "Two versions of Fenton's photo Valley of the Shadow of Death differ in the placement of these discarded weapons: either in the path of a dirt road, or lying in the adjacent ditch.",
+        "answer": "cannon balls (or round shot or solid shot; do not accept or prompt on \"cannon\")"
+      }
+    },
+    {
+      "prompt": "In 2010 the men's basketball team from this school won its only Big East Tournament championship.  For 10 points each-",
+      "A": {
+        "question": "Name this school, which lost in the Final Four of that year's NCAA tournament to eventual champion Duke.  It plays home games in Morgantown.",
+        "answer": "West Virginia University (prompt on \"Mountaineers\" or \"WVU\")"
+      },
+      "B": {
+        "question": "The 2010 West Virginia team was coached by this man, who has coached at the school since 2007.",
+        "answer": "Bob Huggins (or Robert Edward Huggins)"
+      },
+      "C": {
+        "question": "West Virginia advanced to the Final Four with an Elite Eight upset of this top -seeded team, which is coached by John Calipari [kal-ih-PAR-ee].",
+        "answer": "University of Kentucky (prompt on \"UK\" or \"Wildcats\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the myth of Iphis, who was born a girl and prayed to the gods to be transformed into a man before marrying Ianthe [EE-ann-thay]:",
+      "A": {
+        "question": "Iphis lived on this island.  Zeus brought Europa to this island and gave her the bronze giant Talos as a  guard.",
+        "answer": "Crete (or Kríti or Krete)"
+      },
+      "B": {
+        "question": "Iphis's prayers were answered by this Egyptian goddess, the wife of Osiris.",
+        "answer": "Isis [\"EYE\"-siss]"
+      },
+      "C": {
+        "question": "This Lapith woman was also transformed into a man, and given impenetrable skin, after being raped by Poseidon.",
+        "answer": "Caeneus [kay-NEE-us] (accept Caenis)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the scientific work of Karl Schwarzschild [SHWARTS-\"shield\"]:",
+      "A": {
+        "question": "The Schwarzschild criterion predicts that this process will begin in a star when the temperat ure gradient is super-adiabatic [AY-dee-uh-BAT-ik].",
+        "answer": "convection"
+      },
+      "B": {
+        "question": "In terms of the gravitational constant G, speed of light c, and mass M, what is the Schwarzschild radius for a black hole of mass M?",
+        "answer": "2GM/c2 [\"two G M over c squared\"]"
+      },
+      "C": {
+        "question": "The Schwarzschild telescope eliminates both coma and this other aberration that distorts images made by mirrors with a namesake shape.",
+        "answer": "spherical aberration"
+      }
+    },
+    {
+      "prompt": "Charlotte von Kirschbaum [shar-LOH-teh von KEERSH-baum] collaborated with this man on a text which rejects the idea of an abstract decree in its approach to the doctrine of election.  For 10 points each -",
+      "A": {
+        "question": "Name this Swiss author of the unfinished, four-volume magnum opus Church Dogmatics.",
+        "answer": "Karl Barth [\"bart\"]"
+      },
+      "B": {
+        "question": "Barth pioneered dialectical theology with a commentary on this long Pauline epistle addressed to churches in an Italian city.",
+        "answer": "Epistle to the Romans (or Letter to the Romans)"
+      },
+      "C": {
+        "question": "Karl Barth was an influence on this author of Black Theology and Black Power who taught at Union Theological Seminary until his 2018 death.",
+        "answer": "James (Hal) Cone"
+      }
+    },
+    {
+      "prompt": "This country's interim \"Government of National Accord\" was dissolved in 2021.  For 10 points each -",
+      "A": {
+        "question": "Name this country where the new Government of National Unity seeks to bring together rival parliaments that have operated in Tripoli and Tobruk [toh-BROOK].",
+        "answer": "Libya"
+      },
+      "B": {
+        "question": "Under the GNA, Libya signed an agreement to establish an exclusive economic zone with this country, whose disputed maritime border with Greece is defined by the Seville Map.",
+        "answer": "Turkey (or Republic of Turkey or Türkiye Cumhuriyeti)"
+      },
+      "C": {
+        "question": "Critics argued that the deal violated the United Nations convention on this body of law governing maritime environments.",
+        "answer": "law of the sea (accept United Nations Convention on the Law of the Sea or UNCLOS)"
+      }
+    },
+    {
+      "prompt": "If a group has this property, the group's Cayley table is symmetric.  For 10 points each -",
+      "A": {
+        "question": "Name this property that makes a group abelian [uh-BEE-lee-un].",
+        "answer": "commutative property or commutativity"
+      },
+      "B": {
+        "question": "Given a non-abelian group, this is the name for the subgroup of elements that do commute with all the members of the group.  In other words, this subgroup is all a for which a g equals g a for every g in the full group.",
+        "answer": "center of the group"
+      },
+      "C": {
+        "question": "The center must be this type of subgroup since its left and right cosets [KOH-\"sets\"] are equal.  Equivalently, this type of subgroup is the kernel of a homomorphism of the group.",
+        "answer": "normal subgroups"
+      }
+    }
+  ]
+}

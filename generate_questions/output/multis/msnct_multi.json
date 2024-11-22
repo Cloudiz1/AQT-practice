@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "A British organization for members of this field publishes a journal called Ibis [\"EYE\"-biss].  For 10 points each -",
+      "A": {
+        "question": "Name this branch of zoology that studies birds.",
+        "answer": "ornithology [OR-nih-THAH-luh-jee] (accept ornithologists)"
+      },
+      "B": {
+        "question": "Before 2021 a journal now called Ornithology was named after this flightless bird that went extinct in the 19th century.  It lived in coastal areas of the North Atlantic, including Canada and Iceland.",
+        "answer": "great auk [awk] (or Pinguinus impennis; accept The Auk(: Ornithological Advances))"
+      },
+      "C": {
+        "question": "A sister journal, also renamed Ornithological [OR-nih-thuh-\"logical\"] Applications in 2021, was previously named for this type of vulture.  This bird's \"California\" species has the largest wingspan of any bird in North Amer ica.",
+        "answer": "condor (accept California condor; accept The Condor(: Ornithological Applications))"
+      }
+    },
+    {
+      "prompt": "Many authors have voiced a debt of gratitude to Edgar Allan Poe.  For 10 points each -",
+      "A": {
+        "question": "This creator of Sherlock Holmes said that Poe's character C. Auguste Dupin [\"C\" oh-GOOST doo-pan] \"breathed life\" into detective fiction.",
+        "answer": "Arthur (Ignatius) Conan Doyle"
+      },
+      "B": {
+        "question": "An acrostic [uh-\"CROSS\"-tik] poem dedicated to Poe is among the rare poems by this horror author, who is better known for creating the evil deity Cthulhu [kuh-THOO-loo].",
+        "answer": "H. P. Lovecraft (or Howard Phillips Lovecraft)"
+      },
+      "C": {
+        "question": "This author of the novel It claims that Poe \"wasn't just a mystery-suspense writer.  He was the first.\"",
+        "answer": "Stephen (Edwin) King"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the delta of the Danube River:",
+      "A": {
+        "question": "Most of the Danube delta lies in this Eastern European country, which contains the historical regions of Moldavia [mohl-DAY-vee-uh] and Wallachia [wah-LAY-kee-uh].",
+        "answer": "Romania"
+      },
+      "B": {
+        "question": "The Danube River empties into this sea north of Turkey.",
+        "answer": "Black Sea"
+      },
+      "C": {
+        "question": "The Danube's delta is the second-largest in Europe; the largest river delta is that of this river, the longest in Europe, which empties into the Caspian Sea.",
+        "answer": "Volga River"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the various ways in which french fries are prepared:",
+      "A": {
+        "question": "Gravy and cheese curds are poured over french fries in this dish, which is especially popular in Canada.",
+        "answer": "poutine [POO-teen]"
+      },
+      "B": {
+        "question": "In the Netherlands, fries are most commonly dipped in this condiment made from oil and egg yolks.",
+        "answer": "mayonnaise"
+      },
+      "C": {
+        "question": "In 2016 McDonald's restaurants in Japan began selling fries coated with this ingredient, which forms the outer layer of Pocky.",
+        "answer": "chocolate"
+      }
+    },
+    {
+      "prompt": "This person was known as the \"Maid of Orléans\" [orr-lee-OWN].  For 10 points each -",
+      "A": {
+        "question": "Name this person canonized in 1920, centuries after being burned at the stake by a pro -English bishop in 1431.",
+        "answer": "(Saint) Joan of Arc (or Jeanne d'Arc; prompt on \"Joan\" or \"Jeanne\")"
+      },
+      "B": {
+        "question": "Joan of Arc's birthplace at Domrémy [dohm-ray-MEE] is now located in this European country.",
+        "answer": "France (or French Republic or République française)"
+      },
+      "C": {
+        "question": "Joan assisted a French king with this name in reaching his coronation ceremony.  The tenth French king with this name was overthrown in the July Revolution.",
+        "answer": "Charles (accept Charles VII [\"the seventh\"] or Charles X [\"the tenth\"] or Charles-Philippe)"
+      }
+    },
+    {
+      "prompt": "In the Gospel of John, this figure says \"unless you see signs and wonders, you will not believe.\"  For 10 points each-",
+      "A": {
+        "question": "What subject of the Gospels performs miracles including exorcisms, feeding a multitude, and walking on water?",
+        "answer": "Jesus (the) Christ (or Jesus of Nazareth or Yesua or Yeshua or Iesous; accept any underlined portion)"
+      },
+      "B": {
+        "question": "Jesus miraculously turns water into wine while visiting this kind of celebration at Cana [KAY-nuh].",
+        "answer": "wedding (accept marriage ceremony; accept wedding feast or marriage feast; prompt on \"feast\")"
+      },
+      "C": {
+        "question": "Jesus tells Peter that he will find a coin for paying the tax of the temple at Capernaum [kuh-PUR-nay-um] in the mouth of one of these animals.  Peter's previous profession involved capturing these animals.",
+        "answer": "fish"
+      }
+    },
+    {
+      "prompt": "The name of these features comes from a Norse word for \"to gush.\"  For 10 points each -",
+      "A": {
+        "question": "Name these geologic features that intermittently erupt superheated wate r and steam.",
+        "answer": "geysers [\"GUY\"-zurs]"
+      },
+      "B": {
+        "question": "A geyser is a dramatic example of this geologic feature, which is a point where groundwater from an aquifer flows directly out on the surface.",
+        "answer": "spring(s) (accept hot springs)"
+      },
+      "C": {
+        "question": "Geyserite [\"geyser\"-ite], which forms in the pipes of geysers, is mostly made up of this mineral.  This material common in sand is often made into moisture-reducing, gel-like beads.",
+        "answer": "silica (accept silicon dioxide; prompt on \"quartz\" or \"SiO2\"; do not accept or prompt on \"silicate(s)\")"
+      }
+    },
+    {
+      "prompt": "As of April 2022, there are less than 40 inmates at this location.  For 10 points each -",
+      "A": {
+        "question": "Name this detention camp created in 2002 during the \"War on Terror.\"  Located in the Caribbean, this place remains open despite calls for the president to shut it down.",
+        "answer": "Guantánamo [gwahn-TAH-nah-moh] Bay detention camp (accept Gitmo; accept Camp Delta)"
+      },
+      "B": {
+        "question": "The Guantánamo Bay camp is on this island, which an American-backed force attacked in the Bay of Pigs invasion.",
+        "answer": "Cuba (or Republic of Cuba or República de Cuba)"
+      },
+      "C": {
+        "question": "This other prison was central to an Iraq War scandal in which U.S. soldiers were photographed mocking and torturing naked prisoners.",
+        "answer": "Abu Ghraib [AH-boo GRAYB]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these countries with unusual flags:",
+      "A": {
+        "question": "Mount Everest is on the border of China and this country, which features the world 's only non-quadrilateral [kwahd-ruh-LAT-uh-rul] flag.",
+        "answer": "Nepal (or Federal Democratic Republic of Nepal or Sanghiya Loktantrik Ganatantra Nepal)"
+      },
+      "B": {
+        "question": "An AK-47 is featured on the flag of this country, which shares its name with the channel separating Madagascar from mainland Africa.",
+        "answer": "Mozambique [moh-zam-BEEK] (or Republic of Mozambique or República de Moçambique; accept Mozambique Channel)"
+      },
+      "C": {
+        "question": "In 2009 this country adopted a dual flag called the Wiphala [wih-PUH-luh] to represent its indigenous people.  The colonial Spanish silver mines at Potosí [poh-toh-\"SEE\"] were in what is now this country.",
+        "answer": "Bolivia (or Plurinational State of Bolivia or Estado Plurinacional de Bolivia)"
+      }
+    },
+    {
+      "prompt": "In 2019 a brick thrown by protestors killed janitor Luo Changqing [loo-OH chang-CHING] in this city.  For 10 points each-",
+      "A": {
+        "question": "Name this \"special administrative region\" that is currently led by Carrie Lam, who in April 2022 announced she would not seek another term.",
+        "answer": "Hong Kong (or Hong Kong Special Administrative Region or Xianggang Tebie Xingzhengqu)"
+      },
+      "B": {
+        "question": "The protests were sparked by a bill that would have added China to the list of countries with which Hong Kong could engage in this legal process.",
+        "answer": "extradition (accept extradite or extraditing; do not accept or prompt on \"deportation\")"
+      },
+      "C": {
+        "question": "Despite the protests, this president of China ensured the passage of the Hong Kong National Security Law in June 2020.",
+        "answer": "Xi Jinping [shee jin-peeng] (or Xí Jìnpíng; do not accept or prompt on \"Jinping\")"
+      }
+    },
+    {
+      "prompt": "This illness is sometimes colloquially called \"hydrophobia.\"  For 10 points each -",
+      "A": {
+        "question": "Name this disease transmitted by the bite of an infected mammal.",
+        "answer": "rabies"
+      },
+      "B": {
+        "question": "In the 1800s this French scientist developed the first effective human vaccine for rabies with Émile Roux [ay-meel ROO].  He also advanced the germ theory of disease.",
+        "answer": "Louis Pasteur [LOO-ee pass-TUR]"
+      },
+      "C": {
+        "question": "Pasteur and Roux also developed the first vaccine for this bacterial infection, whose name refers to the coal -black lesions it forms on the skin.  Sheep are particularly susceptible to this disease.",
+        "answer": "anthrax (accept Bacillus anthracis)"
+      }
+    },
+    {
+      "prompt": "In 2021 a book named for this street was withdrawn from publication by the author's estate, due to \"hurtful\"  imagery.  For 10 points each -",
+      "A": {
+        "question": "In a 1937 children's book, Marco imagines an increasingly fantastical procession along what title street?",
+        "answer": "Mulberry Street (accept And to Think That I Saw It on Mulberry Street)"
+      },
+      "B": {
+        "question": "And to Think That I Saw It on Mulberry Street was the first children's book by this writer and illustrator, who later wrote The Cat in the Hat.",
+        "answer": "Dr. Seuss [sooss or soyss] (or Theodor Seuss Geisel)"
+      },
+      "C": {
+        "question": "The second children's book by Dr. Seuss was named for this boy, whose \"500 Hats\" incur the wrath of King Derwin.",
+        "answer": "Bartholomew Cubbins (accept either underlined portion; accept The 500 Hats of Bartholomew Cubbins)"
+      }
+    },
+    {
+      "prompt": "This religious movement began in the early 1900s with the Azusa [ah-ZOO-suh] Street Revival.  For 10 points each -",
+      "A": {
+        "question": "The fastest-growing religious movement in the world is what evangelical Protestant movement whose practices include speaking in tongues?",
+        "answer": "Pentecostalism (accept (classical) Pentecostal movement or Pentecostals)"
+      },
+      "B": {
+        "question": "The Azusa Street Revival took place in this most populous city in Southern Cali fornia.",
+        "answer": "Los Angeles, California (or L.)"
+      },
+      "C": {
+        "question": "Pentecostalism arose from the teachings of this man and his brother Charles, who were the British co -founders of the Methodist church.",
+        "answer": "John Wesley"
+      }
+    },
+    {
+      "prompt": "The wheel on the center of the Indian flag symbolizes this concept.  For 10 points each -",
+      "A": {
+        "question": "Name this Hindu concept which refers to living in proper accord with the cosmic order.",
+        "answer": "dharma [DAR-muh]"
+      },
+      "B": {
+        "question": "Dharma is also one of the Three Jewels of this Indian religion founded by Siddhartha Gautama.",
+        "answer": "Buddhism (accept Buddhist religion; accept branches such as Mahayana or Theravada Buddhism)"
+      },
+      "C": {
+        "question": "One of the earliest references to dharma occurs in this oldest of the Vedas [vay-duz], which begins with the Gayatri [\"GUY-uh-tree\"] mantra.",
+        "answer": "Rigveda [RIG VAY-duh]"
+      }
+    },
+    {
+      "prompt": "This epoch's name comes from Greek words meaning \"whole\" and \"new.\"  For 10 points each -",
+      "A": {
+        "question": "Name this geological epoch that followed the Pleistocene [\"PLY\"-stuh-\"seen\"] and which most scientists reckon we are still currently in.",
+        "answer": "Holocene [HAH-luh-seen] Epoch"
+      },
+      "B": {
+        "question": "\"Holocene\" is a song by this indie folk band whose debut album is called  For Emma, Forever Ago.  This band fronted by Justin Vernon is featured on Taylor Swift's song \"Exile.\"",
+        "answer": "Bon Iver [bohn ee-VAIR]"
+      },
+      "C": {
+        "question": "The later part of the Holocene is sometimes called the Anthropocene [ANN-thruh-puh-SEEN] due to the impact of this species on the world's ecosystems.",
+        "answer": "modern humans (or Homo sapiens)"
+      }
+    },
+    {
+      "prompt": "This composer's dissatisfaction with the helicon [HEL-ih-\"con\"] led to the creation of his namesake variant of the tuba.  For 10 points each-",
+      "A": {
+        "question": "Name this composer of works named after The Washington Post and the Marine Corps motto \"Semper Fidelis\" [SEM-pur fih-DEH-liss].",
+        "answer": "John Philip Sousa (prompt on \"sousaphone\" by asking \"Who's the composer?\")"
+      },
+      "B": {
+        "question": "Sousa was dubbed the \"king\" of this genre often performed by military bands.",
+        "answer": "march(es) (accept March King)"
+      },
+      "C": {
+        "question": "This Sousa march, originally intended for his operetta [ahp-uh-RET-uh] The Devil's Deputy, was renamed after a U.S. landmark.  It was later used as the theme tune for Monty Python's Flying Circus.",
+        "answer": "Liberty Bell March"
+      }
+    },
+    {
+      "prompt": "The gamma function shifts and extends this function to complex numbers.  For 10 points each -",
+      "A": {
+        "question": "Name this function that, for a positive integer n, is defined as \"n, times n minus 1, times n minus 2, and so on down to 1.\"",
+        "answer": "(n) factorial function"
+      },
+      "B": {
+        "question": "The factorial function is denoted by this punctuation mark.",
+        "answer": "exclamation point or exclamation mark (accept bang)"
+      },
+      "C": {
+        "question": "This is the only value that is the result of the factorial function for two different numbers.",
+        "answer": "1 [0! = 1! = 1]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the Battle of Actium [AK-tee-um]:",
+      "A": {
+        "question": "This future Roman emperor's fleet won the battle.",
+        "answer": "Augustus Caesar (or Caesar Augustus or Octavian or Gaius Octavius or Gaius Julius Caesar Octavianus; do not accept or prompt on \"(Julius) Caesar\")"
+      },
+      "B": {
+        "question": "At Actium, Augustus's forces defeated his former ally Mark Antony, who was supported by this Egyptian queen.",
+        "answer": "Cleopatra (VII Philopator)"
+      },
+      "C": {
+        "question": "While Octavian and Mark Antony were allies, they joined with Lepidus [LEP-ih-duss] to form this group of rulers.",
+        "answer": "Second Triumvirate [\"try\"-UM-vih-rut] (prompt on \"triumvirate\")"
+      }
+    },
+    {
+      "prompt": "This writer criticized \"meaningless words\" in his essay Politics and the English Language.  For 10 points each -",
+      "A": {
+        "question": "Name this author who invented the word \"doubleplusgood\" [\"double-plus-good\"] for a novel set in the totalitarian [toh-tal-ih-TAIR-ee-un] state of Oceania [oh-shee-AY-nee-uh].",
+        "answer": "George Orwell (or Eric Arthur Blair)"
+      },
+      "B": {
+        "question": "Oceania is the setting of this Orwell novel, which also introduced the words \"doublethink\" [\"double-think\"] and \"unperson\" [\"un-person\"].  This novel is named for a year.",
+        "answer": "Nineteen Eighty-Four (or 1984)"
+      },
+      "C": {
+        "question": "In Nineteen Eighty-Four, \"doubleplusgood\" is an example of this restricted form of English, which the government imposes so dissent will become \"literally unthinkable.\"",
+        "answer": "Newspeak [\"new-speak\"]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about H II [\"H two\"] regions:",
+      "A": {
+        "question": "They are examples of the \"emission\" type of these large clouds of gas found in galaxies.  Their name comes from the Latin for cloud.",
+        "answer": "nebulas or nebulae (accept emission nebulas or nebulae)"
+      },
+      "B": {
+        "question": "The phrase \"H II\" indicates that H II regions contain hydrogen in this state.  It typically requires 13.6 eV [\"E-V\"] of energy to shift an atom of hydrogen to this state.",
+        "answer": "ionized (accept answers indicating that the hydrogen is ionized or has lost an electron; accept H+; prompt on answers indicating \"(the hydrogen is electrically) charge(d)\"; do not accept or prompt on \"excited\")"
+      },
+      "C": {
+        "question": "H II regions are often found where these objects have recently formed.  They include red dwarfs and blue supergiants.",
+        "answer": "stars"
+      }
+    },
+    {
+      "prompt": "In 1982 chemist Leo Paquette synthesized a compound with formula C20H20 [\"C twenty H twenty\"] whose carbon atoms form the vertices of one of these solids.  For 10 points each -",
+      "A": {
+        "question": "Name this Platonic solid that has twelve faces.",
+        "answer": "(regular) dodecahedron [doh-DEK-uh-HEE-drun] [C20H20 is called dodecahedrane.]"
+      },
+      "B": {
+        "question": "A large dodecahedron appears in Reptiles, a lithograph depicting tessellation [teh-suh-LAY-shun] by this Dutch artist.  His print Relativity depicts unusually arranged doors and staircases.",
+        "answer": "M."
+      },
+      "C": {
+        "question": "Escher [EH-shur] (or Maurits Cornelis Escher)   A character named the Dodecahedron leads the protagonists to the court of the Mathemagician in Digitopolis in this 1961 novel.",
+        "answer": "The Phantom Tollbooth [by Norton Juster]"
+      }
+    },
+    {
+      "prompt": "This man was known as the \"Hero of the Two Worlds\" for his roles in both the French Revolution and t he American Revolution.  For 10 points each -",
+      "A": {
+        "question": "Name this French marquis [mar-KEE], who received a serious leg wound at the Battle of Brandywine.",
+        "answer": "Marquis de Lafayette [lah-\"fie\"-ET] (or Marie-Joseph Paul Yves Roch Gilbert du Motier)"
+      },
+      "B": {
+        "question": "Lafayette and George Washington forced the surrender of Charles Cornwallis at this final major engagement of the American Revolutionary War.",
+        "answer": "Battle of Yorktown (or Siege of Yorktown)"
+      },
+      "C": {
+        "question": "The first joint operation between American and French forces was an indecisive siege of Newport, an important port in this New England state.",
+        "answer": "Rhode Island (accept RI [\"R-I\"]; accept Battle of Rhode Island)"
+      }
+    },
+    {
+      "prompt": "Pencil and paper ready.  For 10 points each -answer these questions about an urn holding 7 purple marbles, [pause] 8 blue marbles, [pause] and 1 white marble:",
+      "A": {
+        "question": "If a single marble is randomly drawn, what is the probability that it is blue?",
+        "answer": "1/2 or 50% or 0.50 or 1 in 2 [There are 7 + 8 + 1 = 16 total marbles, of which 8 are blue; 8/16 = 1/2.]"
+      },
+      "B": {
+        "question": "How many white marbles need to be added to raise the probability of drawing a white marble to one-fourth, or 25 percent?  You have 10 seconds.",
+        "answer": "4 white marbles [There is currently 1 white marble out of 16.  If w is the number of white marbles added, (1 + w)/(16 + w) = 1/4, so 4 + 4w = 16 + w, so 3w = 12, and w = 4.]"
+      },
+      "C": {
+        "question": "What minimum number of purple marbles must be added to raise the probability of drawing a purple marble to a value strictly greater than the probability of drawing a blue marble?",
+        "answer": "2 purple marbles [This requires having more purple marbles than blue marbles; adding 1 purple would make their count equal (8 each), but adding 2 would yield a greater number of purple marbles (9 versus 8).]"
+      }
+    }
+  ]
+}

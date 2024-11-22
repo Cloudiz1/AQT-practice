@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "This adjective precedes \"England\" in the name of an upper-class Tory group led by Benjamin Disraeli [diz-\"RAIL\"-ee].  For 10 points each-",
+      "A": {
+        "question": "When applied to the word \"Turks,\" what adjective identifies an early 20th-century reform movement in the Ottoman Empire?",
+        "answer": "young (or jön; accept Young England or Young Turks or Jön Turkler)"
+      },
+      "B": {
+        "question": "This man founded the Young Italy movement in 1831, and fomented many democratic revolts intended to promote Italian unification.",
+        "answer": "Giuseppe Mazzini [joo-SEP-ee mat-ZEE-nee]"
+      },
+      "C": {
+        "question": "The Young Bosnia [BAHZ-nee-uh] movement included Gavrilo Princip [GAHV-rih-loh \"PRINT-sip\"], who assassinated this Austrian archduke to ignite World War I.",
+        "answer": "Archduke Franz Ferdinand (or Francis Ferdinand; prompt on partial answers)"
+      }
+    },
+    {
+      "prompt": "Pencil and paper ready.  Consider a game in which players have a one -third chance of winning 10 dollars [pause] and a two-thirds chance of losing 4 dollars.  For 10 points each -",
+      "A": {
+        "question": "If the game is played once, what is the expected value, in dollars, of the winnings?  You have 10 seconds.",
+        "answer": "2/3 dollar(s) [((1/3) * 10) - ((2/3) * 4) = (10/3) - (8/3) = 2/3]"
+      },
+      "B": {
+        "question": "Given each turn has an expected profit of 2/3 of a dollar, what is the total expected profit after 15 games?",
+        "answer": "10 dollars [15 * (2/3) = 30/3 = 10]"
+      },
+      "C": {
+        "question": "As the total amount of money depends only on the state after the previous game, the game can be described by models named for what Russian mathematician?",
+        "answer": "Andrey (Andreyevich) Markov [\"MARK-off\"] (accept discrete-time Markov process(es) or Markov chains or Markov models; prompt on \"Markovian (processes or chains or models)\")"
+      }
+    },
+    {
+      "prompt": "In 2018 accountant Scott Foster briefly became a celebrity for playing this position in a game.  For 10 points each-",
+      "A": {
+        "question": "Name this sports position played by emergency fill-in David Ayres in a February 2020 game after two players for the Carolina Hurricanes were injured.",
+        "answer": "goalie(s) (or hockey goalies or hockey goaltenders)"
+      },
+      "B": {
+        "question": "The Hurricanes were playing on the road in this team's Scotiabank [SKOH-shuh-bank] Arena.  This hockey team's rivalry with the Canadiens [kuh-nay-dee-ENZ] is the oldest in NHL history.",
+        "answer": "Toronto Maple Leafs (accept either underlined portion)"
+      },
+      "C": {
+        "question": "The Maple Leafs have won this NHL championship trophy 13 times, second only to the Canadiens.",
+        "answer": "Stanley Cup (or La Coupe Stanley; accept Lord Stanley's Cup)"
+      }
+    },
+    {
+      "prompt": "In 2014 this state elected its first female senator, the Republican Shelley Moore Capito [\"CAP\"-ih-\"toe\"].  For 10 points each-",
+      "A": {
+        "question": "Name this mountainous state with a politically influential coal industry.",
+        "answer": "West Virginia (accept WV [\"W-V\"])"
+      },
+      "B": {
+        "question": "In his 2022 State of the State address, this West Virginia governor lifted up his pet bulldog, and told actress Bette [bet] Midler to \"kiss\" the dog's \"hiney\" [\"HI\"-nee].",
+        "answer": "Jim Justice (or James Conley Justice II)"
+      },
+      "C": {
+        "question": "Midler had insulted West Virginia in a tweet criticizing this Democratic senator.  Protesters have paddled kayaks [KYE-yaks] to the houseboat of this man, who opposes most of the Build Back Better legislation.",
+        "answer": "Joe Manchin (or Joseph Manchin III)"
+      }
+    },
+    {
+      "prompt": "This codeword indicated a successful ambush, but is frequently mistranslated as \"tiger.\"  For 10 points each -",
+      "A": {
+        "question": "Give this Japanese word repeated three times in the title of a 1970 film about the attack on Pearl Harbor.",
+        "answer": "tora [toh-rah] (accept Tora! Tora! Tora!) [\"Tora\" is a homophone for the Japanese word for tiger.]"
+      },
+      "B": {
+        "question": "In the film Tora! Tora! Tora!, this leader of the Japanese Imperial Navy says that Japan has \"awakened a sleeping giant,\" a quote invented for the film.",
+        "answer": "Isoroku Yamamoto [ee-soh-roh-koo yah-mah-moh-toh] (or Isoroku Takano; accept names in either order; accept Admiral Yamamoto or Admiral Takano)"
+      },
+      "C": {
+        "question": "Tora! Tora! Tora! includes anachronistic [uh-nak-ruh-NISS-tik] shots of a Pearl Harbor memorial on this Hawaiian island, where the attack took place.",
+        "answer": "Oahu [oh-AH-hoo]"
+      }
+    },
+    {
+      "prompt": "Characters in this \"Super Soul Musical\" sing \"Ease On Down the Road\" while traveling to the Emerald City.  For 10 points each-",
+      "A": {
+        "question": "Wicked witches are given the names \"Evamean\" [EH-vuh-\"mean\"] and \"Evillene\" [\"EVIL\"-leen] in what 1974 musical based on a novel by L. Frank Baum?",
+        "answer": "The Wiz(: The Super Soul Musical \"Wonderful Wizard of Oz\") (do not accept or prompt on \"The (Wonderful) Wizard of Oz\")"
+      },
+      "B": {
+        "question": "In a 1978 film version of The Wiz, the Scarecrow was played by this singer, who would later release the album Thriller.",
+        "answer": "Michael (Joseph) Jackson"
+      },
+      "C": {
+        "question": "A 2015 live TV adaptation of The Wiz featured this rapper and actress as the title character.  This co -star of Girls Trip received an Oscar nomination for playing Mama Morton in Chicago.",
+        "answer": "Queen Latifah [lah-TEE-fuh] (or Dana Elaine Owens)"
+      }
+    },
+    {
+      "prompt": "Miguel Alcubierre [mee-GHEL ahl-koo-bee-\"AIR-ray\"] proposed a device that would achieve this kind of motion.  For 10 points each-",
+      "A": {
+        "question": "Some relativistic [\"relative\"-ISS-tik] jets appear to move in what manner that exceeds a \"universal limit\"?",
+        "answer": "faster-than-light or superluminal motion (accept FTL [\"F-T-L\"] motion or answers indicating above the speed of light; prompt on \"warp (speed or motion)\" or \"(Alcubierre) warp (drive)\")"
+      },
+      "B": {
+        "question": "A superluminal [\"super\"-loo-muh-nul] jet is produced by M87 [\"M-eighty-seven\"], one of these galaxies found on the left side of Hubble's tuning fork diagram.",
+        "answer": "elliptical [uh-LIP-tih-kul] galaxies (or ellipticals; accept supergiant elliptical galaxies or ellipticals; prompt on \"radio (galaxies)\")"
+      },
+      "C": {
+        "question": "Apparent superluminal motion can also occur with this phenomenon, in which a delayed light signal arrives after being reflected.  A similar phenomenon occurs when sound reflects off a wall or distant mountain.",
+        "answer": "light echo(s)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about detention of prisoners during the U.S. War on Terror:",
+      "A": {
+        "question": "Many detainees were held at a camp on this naval base in Cuba, which the U.S. has leased since 1903.",
+        "answer": "Guantánamo [gwahn-TAH-nah-moh] Bay (accept GTMO or Gitmo; accept Guantanamo Bay Naval Base or Naval Station Guantanamo Bay)"
+      },
+      "B": {
+        "question": "This British international spy agency aided the CIA in performing \"extraordinary renditions\" of detainees to \"black sites,\" where the detainees were interrogated and tortured.",
+        "answer": "MI6 [\"M-I-six\"] (accept Secret Intelligence Service or SIS)"
+      },
+      "C": {
+        "question": "One suspected CIA black site was on Diego Garcia [dee-AY-goh gar-SEE-uh], an isolated atoll [AT-tohl] in the middle of this ocean.  U.S. forces buried Osama bin Laden [oh-SAH-muh bin LAH-den] at sea in this ocean.",
+        "answer": "Indian Ocean"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about Johann Wolfgang von Goethe [GUR-tuh]:",
+      "A": {
+        "question": "Goethe's magnum opus [OH-puss] is a tragedy about this scholar, who wagers his soul with the demon Mephistopheles [MEH-fih-STAH-fuh-leez].",
+        "answer": "Heinrich Faust [fowst] (accept either underlined portion; accept Doctor Faust or Faustus; accept Henry Faust; accept Faust: The First Part of the Tragedy or Faust. Der Tragödie erster Teil or Faust: The Second Part of the Tragedy or Faust. Der Tragödie zweiter Teil in fünf Akten)"
+      },
+      "B": {
+        "question": "Goethe rose to fame with a 1774 novel about the \"sorrows\" of this young man, which are caused by his unrequited love for his friend Charlotte [shar-LOH-teh].",
+        "answer": "(Young) Werther [VAIR-tair] (accept The Sorrows of Young Werther or Die Leiden des jungen Werthers)"
+      },
+      "C": {
+        "question": "Goethe's poetry collection West-Eastern Divan [dih-VAN] was inspired by the works of Hafez [HAH-fiz], who wrote many poems called ghazals [GAH-zahlz] in this language also used by the poet Rumi [ROO-mee].",
+        "answer": "Persian language (or Farsi)"
+      }
+    },
+    {
+      "prompt": "In circuit diagrams, this point is represented by three parallel lines of decreasing length.  For 10 points each -",
+      "A": {
+        "question": "Name this point in a circuit that serves as an infinite charge sink.",
+        "answer": "ground (accept answers indicating where the circuit is grounded)"
+      },
+      "B": {
+        "question": "Some antennae [an-TEN-ee] that transmit these waves need to be grounded to prevent a buildup of charge.  These waves are often AM [\"A-M\"] or FM [\"F-M\"].",
+        "answer": "radio waves (prompt on \"electromagnetic (waves)\" or \"EM (waves)\")"
+      },
+      "C": {
+        "question": "The ground node is typically defined to have a value of zero for this quantity.  The sum  of this quantity across all circuit elements in a loop equals zero by Kirchhoff's [KEER-kawf's] loop law.",
+        "answer": "voltage (or electric potential; accept volts; do not accept or prompt on \"(electric) potential energy\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer these questions about intervals:",
+      "A": {
+        "question": "What interval exists between a given note and the next higher note with the same letter name, such as C to C?",
+        "answer": "octave(s) [AHK-tiv]"
+      },
+      "B": {
+        "question": "What term describes intervals such as octaves, fourths, and fifths, whose pitches have small whole -number frequency ratios?",
+        "answer": "perfect intervals (accept consonant [\"CON\"-suh-nunt] intervals or consonance)"
+      },
+      "C": {
+        "question": "This adjective describes intervals such as C to F-sharp, or D to G-sharp, that are one half-step larger than a perfect interval.",
+        "answer": "augmented intervals (accept augmented fourths)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these people who contracted polio [POH-lee-oh]:",
+      "A": {
+        "question": "This future president was paralyzed from the waist down in 1921 from what doctors believed to be polio.",
+        "answer": "Franklin D(elano) Roosevelt (or FDR; prompt on \"Roosevelt\")"
+      },
+      "B": {
+        "question": "Because of polio, this artist's right leg was shorter than her left.  Her works include a Self-portrait on the Borderline Between Mexico and the United States.",
+        "answer": "Frida Kahlo [FREE-dah KAH-loh] de Rivera (or Magdalena Carmen Frieda Kahlo y Calderón)"
+      },
+      "C": {
+        "question": "This Israeli-American violinist plays sitting down because he contracted polio at age four.  He recorded the theme for the film Schindler's List.",
+        "answer": "Itzhak Perlman [EET-zahk \"PEARL-man\"]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about Solway [SUL-way] Firth:",
+      "A": {
+        "question": "Like the Dee and the Ribble estuaries [ESS-choo-air-eez], Solway Firth is an inlet of this sea.",
+        "answer": "Irish Sea"
+      },
+      "B": {
+        "question": "To the north of Solway Firth is Dumfries [dum-\"freeze\"] and Galloway, a region of this constituent [kun-\"STITCH\"-oo-ent] country of the U.K.",
+        "answer": "Scotland (or Kingdom of Scotland or Rioghachd na h-Alba)"
+      },
+      "C": {
+        "question": "Solway Firth is near this self-governing island.  A breed of cat named after this island's residents has an unusually short tail.",
+        "answer": "Isle of Man (or Mann or Mannin or Ellan Vannin; prompt on \"Manx (cat)\")"
+      }
+    },
+    {
+      "prompt": "This story is set during a period when an \"elf-queen\" danced \"in many a green meadow.\"  For 10 points each -",
+      "A": {
+        "question": "Name this story about a man who avoids execution by discovering what women most desire.",
+        "answer": "The Wife of Bath's Tale (or The Tale of the Wyf of Bathe; prompt on \"(The) Canterbury Tales\")"
+      },
+      "B": {
+        "question": "\"The Wife of Bath's Tale\" is one of the Canterbury Tales written in Middle English by this author.",
+        "answer": "Geoffrey Chaucer [CHAW-sur]"
+      },
+      "C": {
+        "question": "A digression in \"The Wife of Bath's Tale\" recounts a story about a tattletale wife from this Roman author's Metamorphoses [met-uh-MOR-fuh-seez].",
+        "answer": "Ovid [AH-vid] (or Publius Ovidius Naso)"
+      }
+    },
+    {
+      "prompt": "In 2020 protesters in the U.K. city of Bristol [BRISS-tul] tore down a statue of Edward Colston [\"COAL-stun\"] because of Colston's connection to this practice.  For 10 points each -",
+      "A": {
+        "question": "Name this practice, which often involved taking Africans across the Mid dle Passage.",
+        "answer": "slavery (accept any answer indicating the holding of slaves or enslavement or human chattel or treating humans as property; accept the slave trade)"
+      },
+      "B": {
+        "question": "After the statue was toppled, white supremacists in Bristol vandalized the grave of an enslaved man with this name, which was shared by the Roman general who defeated Hannibal [HAN-uh-bul] at Zama [ZAH-muh].",
+        "answer": "Scipio Africanus [SKIH-pee-oh af-rih-KAHN-uss]"
+      },
+      "C": {
+        "question": "This Whig who represented Bristol in Parliament introduced a bill to ban slaveowners from sitting in the House of Commons.  He criticized revolutionaries in Reflections on the Revolution in France.",
+        "answer": "Edmund Burke"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about brown algae [AL-jee]:",
+      "A": {
+        "question": "Brown algae get their color from fucoxanthin [\"FEW\"-koh-ZAN-thin], a pigment also found in these tiny algae whose cell walls are made of silica [SIL-ih-kuh].",
+        "answer": "diatoms [DYE-uh-tahm] (or Bacillariophyceae or Diatomea or Diatomophyceae or Bacillariae or Bacillariophyta)"
+      },
+      "B": {
+        "question": "In brown algae, this organelle [\"organ\"-EL] has four membranes instead of two.  The Calvin Cycle occurs in the fluid-filled stroma [STROH-muh] of this organelle.",
+        "answer": "chloroplast(s) [KLOR-oh-plast] (prompt on \"plastid(s)\")"
+      },
+      "C": {
+        "question": "This group of brown algae seaweeds are densely concentrated in underwater \"forests.\"",
+        "answer": "kelp(s) (or Laminariales; accept giant kelps or kelp forests)"
+      }
+    },
+    {
+      "prompt": "Floods in this country's KwaZulu-Natal [kwah-ZOO-loo nuh-TAHL] province killed over 400 people in 2022.  For 10 points each-",
+      "A": {
+        "question": "Name this country that has been governed by the African National Congress since 1994.",
+        "answer": "South Africa (or Republic of South Africa; prompt on \"RSA\")"
+      },
+      "B": {
+        "question": "KwaZulu-Natal is the birthplace of this former South African president, who left office in 2018 and is facing an upcoming corruption trial.",
+        "answer": "Jacob (Gedleyihlekisa) Zuma [ZOO-mah]"
+      },
+      "C": {
+        "question": "Zuma's trial is connected to a 1990s contract that supplied South Africa with these weapons.  The Saab JAS 39 Gripen [sahb \"J-A-S thirty-nine\" GRIP-en] and the BAE [\"B-A-E\"] Hawk are examples of these weapons.",
+        "answer": "fighter jets (or fighters or military aircraft or airplanes; accept any underlined portion)"
+      }
+    },
+    {
+      "prompt": "During the 1950s this man worked as a motivational speaker for General Electric.  For 10 points each -",
+      "A": {
+        "question": "Name this man who first made a political impression by giving the 1964 speech \"A Time for Choosi ng\" in support of Barry Goldwater.",
+        "answer": "Ronald (Wilson) Reagan"
+      },
+      "B": {
+        "question": "In 1966 Reagan was elected governor of this West Coast state.",
+        "answer": "California (or CA [\"C-A\"])"
+      },
+      "C": {
+        "question": "In the California governor's race, Reagan defeated Pat, a man with this surname.  Pat's son, who also had this surname, was governor of California in both the 1970s and 2010s.",
+        "answer": "Brown (accept Browns; accept Pat Brown or Edmund Gerald Brown Sr. or Jerry Brown or Edmund Gerald Brown Jr.)"
+      }
+    },
+    {
+      "prompt": "This island contains the city of Hagåtña [huh-GAHT-n'yuh], whose name derives from a Chamorro [chuh-MOR-oh] word for \"blood.\"  For 10 points each -",
+      "A": {
+        "question": "Andersen Air Force Base is on what Micronesian [\"micro\"-NEE-zhun] island controlled by the U.S.?",
+        "answer": "Guam [gwahm] (or Guåhan)"
+      },
+      "B": {
+        "question": "Guam is part of these islands, which form the Philippine [FIL-uh-peen] Sea's eastern border with the greater Pacific Ocean.",
+        "answer": "Mariana [\"marry\"-AH-nuh] Islands (or Marianas)"
+      },
+      "C": {
+        "question": "The \"brown tree\" variety of these reptiles is an invasive species that has devastated Guam's birdli fe.  The \"sea\" types of these animals are sometimes mistaken for eels.",
+        "answer": "snakes (or Serpentes; accept serpents; accept brown tree snakes or sea snakes or sea serpents)"
+      }
+    },
+    {
+      "prompt": "This title character feels \"elephantishly [\"elephant\"-ish-lee] uneasy\" while listening to the marital woes of Paul Riesling [REESS-ling].  For 10 points each -",
+      "A": {
+        "question": "What realtor from the city of Zenith [ZEE-nith] briefly becomes a rebel, and supports the socialist Seneca Doane [SEN-uh-kuh DOHN]?",
+        "answer": "George F(ollansbee) Babbitt (accept either underlined portion)"
+      },
+      "B": {
+        "question": "This American author of Main Street parodied mindless \"boosterism\" [\"BOOSTER\"-ih-zum] in his 1922 novel Babbitt.",
+        "answer": "(Harry) Sinclair Lewis"
+      },
+      "C": {
+        "question": "Lewis also wrote this novel about the fascist Buzz Windrip, who is elected president of the U.S.  Sales of this novel surged after the election of Donald Trump.",
+        "answer": "It Can't Happen Here"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer these questions about theoretical \"shells\":",
+      "A": {
+        "question": "What structures have a \"shell model\" that predicts \"magic numbers\" of component particles -such as 2 and 82-that make these structures especially stable?",
+        "answer": "atomic nuclei [NOO-klee-\"eye\"] (or atomic nucleus; accept nuclear shell model; do not accept or prompt on \"atom(s)\")"
+      },
+      "B": {
+        "question": "For volumes of revolution, the shell method and disk method are two ways of setting up what operation to calculate those volumes?",
+        "answer": "volume integration (or volume integrals [IN-tug-rulz]; accept definite integrals or definite integration; accept answers indicating a function is integrated)"
+      },
+      "C": {
+        "question": "Isaac Newton proved that a spherically symmetric [sim-\"metric\"] shell exerts zero of what force on objects inside of it?  Newton derived this force's inverse -square law.",
+        "answer": "gravity or gravitational force (accept (Newton's) law of universal gravitation)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about Mexico in World War II:",
+      "A": {
+        "question": "Mexico entered the war in 1942, after two Mexican tankers were sunk by this type of German ship.",
+        "answer": "U-boats (accept submarines or Unterseeboote)"
+      },
+      "B": {
+        "question": "A Mexican flying squadron that saw action in the Philippines [FIL-uh-peenz] was named after the Eagle warriors of this empire, which fought Hernán Cortés [\"air\"-NAHN kor-TEZ] in the early 16th century.",
+        "answer": "Aztec Empire or Aztecs (or aztecas or Aztec Triple Alliance; accept Aztec Eagles or Águilas Aztecas; accept Tenochcas [teh-NOHCH-kuz] or Excan Tlahtoloyan)"
+      },
+      "C": {
+        "question": "During World War II Mexico was governed by a predecessor to this political party.  This party and its predecessors held national power between 1929 and 2000.",
+        "answer": "PRI [pree or \"P-R-I\"] (or Institutional Revolutionary Party or Partido Revolucionario Institucional) [The PRI's predecessors were the National Revolutionary Party, which existed from 1929 to 1938, and the Party of the Mexican Revolution, which was replaced by the PRI in 1946.]"
+      }
+    },
+    {
+      "prompt": "This author wrote \"old time is still a-flying\" in a poem that warns \"having lost but once your prime / you may forever tarry.\"  For 10 points each -",
+      "A": {
+        "question": "Name this 17th-century British poet who advised \"gather ye rosebuds while ye may\" in \"To the Virgins, to Make Much of Time.\"",
+        "answer": "Robert Herrick"
+      },
+      "B": {
+        "question": "\"To the Virgins, to Make Much of Time\" is a poem in this genre [ZHAHN-ruh], whose two-word Latin name means \"seize the day.\"",
+        "answer": "carpe diem [\"CAR-pay\" DEE-um]"
+      },
+      "C": {
+        "question": "Herrick's contemporary Andrew Marvell [\"mar\"-VEL] wrote this carpe diem poem that describes \"Time's wingèd chariot hurrying near.\"",
+        "answer": "To His Coy Mistress"
+      }
+    }
+  ]
+}

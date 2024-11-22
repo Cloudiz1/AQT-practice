@@ -1,0 +1,24 @@
+.main-content {
+    width: 50%;
+    margin: auto;
+    height: 40vh;
+    margin-top: 15vh;
+}
+
+.flashcard {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    word-wrap: break-word;
+    background-color: grey;
+}
+
+.text-area {
+    width: 100%;
+    height: 100%;
+    font-size: 21px;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "This representation of quantum mechanics splits a Hamiltonian into a free part that is solvable and a perturbation part that contains complex system dynamics.  For 10 points each -",
+      "A": {
+        "question": "Name this representation that unifies the Heisenberg [\"HIGH\"-zin-bairg] and Schrödinger [SHRAY-ding-ur] pictures.",
+        "answer": "interaction picture (or Dirac picture)"
+      },
+      "B": {
+        "question": "In the interaction picture, these things and state vectors are both time-dependent.  These things must be Hermitian [\"her-mission\"] so that their associated observables have real values.",
+        "answer": "operators"
+      },
+      "C": {
+        "question": "The interaction picture is used in derivations of this physicist's \"golden rule.\"   Spin one-half particles such as electrons are named for this physicist.",
+        "answer": "Enrico Fermi [\"FAIR-me\"] (accept Fermi's golden rule)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about Byzantine emperors who returned to the throne after being deposed:",
+      "A": {
+        "question": "This Byzantine emperor, the last from the Heraclian [huh-\"RACK\"-lee-un] dynasty, was known as \"the slit-nosed\" because his nose was amputated when he was deposed and exiled to Crimea.",
+        "answer": "Justinian II (or Ioustinianos II; accept Justinian Rhinotmetos or Justinian Rhinotmetus; prompt on \"Justinian (the Slit-Nosed)\" or \"Rhinontmetos\" or \"Rhinotmetus\")"
+      },
+      "B": {
+        "question": "The Fourth Crusade returned to the throne this emperor from the A ngelos dynasty, who had been deposed and blinded by his brother Alexios III.",
+        "answer": "Isaac II Angelos (or Isaakios II prompt on \"Isaac (Komnenos Angelos)\" or \"Isaakios (Komnenos Angelos)\")"
+      },
+      "C": {
+        "question": "The Isaurian emperor Zeno, who was briefly deposed by Basiliscus, ruled during the deposition of this last Western Roman Emperor, who himself was deposed by the barbarian general Odoacer [OH-doh-\"ACE\"-ur].",
+        "answer": "Romulus Augustus (or Romulus Augustulus; prompt on \"Romulus\" or \"Augustulus\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these literary detectives associated with Oxford:",
+      "A": {
+        "question": "This creation of Dorothy Sayers is an aristocratic detective who help s his future wife, Harriet Vane, root out the author of poison pen letters to Oxford dons in Gaudy Night.",
+        "answer": "Lord Peter (Death Bredon) Wimsey (accept either underlined name; accept 17th Duke of Denver)"
+      },
+      "B": {
+        "question": "Ronald Knox argued that references in \"The Adventure of the Missing Three -Quarter\" and other stories made it clear that this detective, who first appeared in A Study in Scarlet, attended Oxford.",
+        "answer": "Sherlock Holmes (accept either underlined portion)"
+      },
+      "C": {
+        "question": "After losing a scholarship to Oxford, this creation of Colin Dexter joined the Thames [temz] Valley Police; he is notable for his interests in crosswords, opera, and classic cars.",
+        "answer": "Inspector Endeavour Morse (accept either underlined name)"
+      }
+    },
+    {
+      "prompt": "Pliny [PLY-nee] the Elder records this sculptor's claim that, while his predecessors \"had made men as they really are,\" this man \"made them as they appeared to be.\"  For 10 points each -",
+      "A": {
+        "question": "What sculptor's work likely survives only in copies, most notably a marble after his The Scraper pulled from a basement in Trastevere [trah-STEV-uh-ray] in 1849?",
+        "answer": "Lysippos (or Lysippus)"
+      },
+      "B": {
+        "question": "Lysippos differed from the earlier master Polykleitos [pahl-ee-KLYE-tuss] by making the head one-eighth rather than one-seventh of the body; such ancient systems of human proportions are known by this term, from the Greek for \"standard.\"",
+        "answer": "canon(s) of (body) proportions (or aesthetic canon(s))"
+      },
+      "C": {
+        "question": "Lysippos was the court sculptor for this ancient conqueror, who is shown on a sarcophagus excavated from Sidon [SYE-dahn] fighting the Persians at the Battle of Issus.",
+        "answer": "Alexander the Great (or Alexander III of Macedon or Aléxandros ho Mégas; prompt on \"Alexander\")"
+      }
+    },
+    {
+      "prompt": "This author died of tuberculosis in 1924, leaving his novel about K.'s struggles with a shadowy bureaucracy unfinished.  For 10 points each -",
+      "A": {
+        "question": "Name this author of The Trial and The Castle.",
+        "answer": "Franz Kafka"
+      },
+      "B": {
+        "question": "Though Kafka left instructions that his unfinished works were to be burned, this man, Kafka's literary executor, published them posthumously instead.",
+        "answer": "Max Brod [broht]"
+      },
+      "C": {
+        "question": "While visiting Brod, Kafka met this woman, who later became his fiancée.  A 1967 book collects some of Kafka's letters to this woman, who is the dedicatee of his story \"The Judgment.\"",
+        "answer": "Felice Bauer (accept either underlined portion; prompt on \"F.\")"
+      }
+    },
+    {
+      "prompt": "This book refers to Robert McNamara [MAK-nuh-mair-uh] as the \"can-do man\" in the \"can-do era.\"  For 10 points each-",
+      "A": {
+        "question": "Name this 1972 David Halberstam book that profiles a group of young advisors in the Defense Department who crafted flawed Vietnam War policies.",
+        "answer": "The Best and the Brightest"
+      },
+      "B": {
+        "question": "David Halberstam's The Best and the Brightest profiles the \"Whiz Kids\" who came to Washington with this Democratic president in 1961.",
+        "answer": "John F(itzgerald) Kennedy (or JFK)"
+      },
+      "C": {
+        "question": "Many of the Defense Department's \"Whiz Kids\" came from this nonprofit think tank, a corporation founded by the Douglas Aircraft Company in 1948.",
+        "answer": "RAND Corporation (prompt on \"Research and Development (Corporation)\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about video games in which players must take unusual physical actions to progress:",
+      "A": {
+        "question": "In a Sega Genesis game starring this superhero team, characters such as Wolverine, Cyclops, a nd Nightcrawler must \"reset\" a computer by pressing the console's actual reset button.",
+        "answer": "X-Men"
+      },
+      "B": {
+        "question": "Phantom Hourglass, a 2007 handheld entry in this series, required players to physically close and open the DS to copy a map.",
+        "answer": "The Legend of Zelda (accept The Legend of Zelda: Phantom Hourglass)"
+      },
+      "C": {
+        "question": "This NES adventure game, which stars the yo-yo-wielding Mike Jones, requires players to reveal a code by physically dipping a paper letter included with the game in water.",
+        "answer": "StarTropics"
+      }
+    },
+    {
+      "prompt": "This series illustrates the emergence of modern multinationals using the examples of the Dutch conglomerate Philips and the fictional \"UGE\" [\"U-G-E\"].  For 10 points each -",
+      "A": {
+        "question": "Identify this TV series.  Margaret Thatcher personally invited Milton Friedman to England to debate with Nicholas Kaldor after decrying this series as \"biased.\"",
+        "answer": "The Age of Uncertainty"
+      },
+      "B": {
+        "question": "The BBC styled The Age of Uncertainty as the \"personal view\" of its presenter, this liberal economist who wrote The Affluent Society.",
+        "answer": "John Kenneth Galbraith [gahl-BRAYTH] (or Ken Galbraith)"
+      },
+      "C": {
+        "question": "In 1980 PBS aired this series, Friedman's pro-market rebuttal to The Age of Uncertainty, which was accompanied by a book of the same title co-written by Rose Friedman.",
+        "answer": "Free to Choose(: A Personal Statement)"
+      }
+    },
+    {
+      "prompt": "This solvent has been considered for the synthesis of MOFs [\"moffs\"] due to its green properties and adjustable solvent power.  For 10 points each -",
+      "A": {
+        "question": "Name this solvent, a supercritical fluid used in many extraction methods, such as the decaffeination of coffee.",
+        "answer": "supercritical carbon dioxide (or sCO2 or supercritical CO2)"
+      },
+      "B": {
+        "question": "Supercritical carbon dioxide has applications in these processes for washing clothing without water, which normally use the solvent tetrachloroethylene [teh-truh-klor-oh-EH-thuh-leen], or \"perc.\"",
+        "answer": "dry cleaning"
+      },
+      "C": {
+        "question": "Other candidates for green solvents include these substances, which are often based on EMIM [\"E-M-I-M\"].  Unlike deep eutectic solvents, the components of these substances are exclusively discrete.",
+        "answer": "ionic liquids (or ILs; prompt on \"ionic solvents\")"
+      }
+    },
+    {
+      "prompt": "A sonnet dedicated to this poet begins \"we laid him in a cool and shadowed grove / one evening in the dreamy scent of thyme.\"  For 10 points each -",
+      "A": {
+        "question": "Name this poet who himself wrote a sonnet beginning \"if I should die, thin k only this of me: / that there's some corner of a foreign field / that is forever England.\"",
+        "answer": "Rupert (Chawner) Brooke"
+      },
+      "B": {
+        "question": "This World War II-era poet wrote \"Sonnet to Rupert Brooke\" as well as the sonnet \"High Flight,\" which begins \"oh! I have slipped the surly bonds of Earth.\"",
+        "answer": "John Gillespie Magee (Jr.)"
+      },
+      "C": {
+        "question": "Brooke was called \"the handsomest young man in England\" by this poet of \"An Irish Airman Foresees His Death\" and \"Easter, 1916.\"",
+        "answer": "William Butler Yeats [rhymes with \"gates\"]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about statuses of near-citizenship:",
+      "A": {
+        "question": "Aristotle was among the prominent members of Athenian society who held this status as a long-term foreign resident of Athens who was subject to many of the burdens, but few of the privileges, of citizenship.",
+        "answer": "metic(s) (or metoikos)"
+      },
+      "B": {
+        "question": "Civitas sine suffragio [SIH-vee-tas SEE-nah soo-FRAH-jee-oh], or \"citizenship without the vote,\" was a category in this republic, in which proposed citizenship reform helped lead to the downfall of Gaius Gracchus.",
+        "answer": "Roman Republic (or Rome or Res publica Romana)"
+      },
+      "C": {
+        "question": "Between the World Wars, stateless persons could travel and be recognized as refugees with passports named for this Norwegian explorer.",
+        "answer": "Fridtjof Nansen (or Fridtjof Wedel-Jarlsberg Nansen; accept Nansen passport(s))"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the process known as \"Megxit\":",
+      "A": {
+        "question": "\"Megxit\" refers to this man and his wife Meghan Markle opting to withdraw from the British royal family in 2020.",
+        "answer": "Prince Harry (or Harry, Duke of Sussex)"
+      },
+      "B": {
+        "question": "The term \"Megxit,\" a reference to \"Brexit,\" was coined by this tabloid newspaper, which launched a Sunday edition in 2012 after the fallout from the News of the World phone hacking scandal.",
+        "answer": "The Sun (accept The Sun on Sunday)"
+      },
+      "C": {
+        "question": "In October 2020 Harry and Meghan founded this non-profit organization based in Beverly Hills to replace the now-defunct Sussex Royal Foundation.",
+        "answer": "Archewell [ARCH-well]"
+      }
+    },
+    {
+      "prompt": "Actor Steve Martin, who plays this instrument, created an annual prize for players of it, whose past recipients include Danny Barnes and Rhiannon Giddens.  For 10 points eac h-",
+      "A": {
+        "question": "Name this circular-bodied string instrument used in bluegrass music.",
+        "answer": "banjo(s)"
+      },
+      "B": {
+        "question": "The prize's 2019 winner, Victor Furtado [fur-TAH-doh], plays this rhythmic banjo style that, unlike the Scruggs and other styles, relies primarily on downpicking.",
+        "answer": "clawhammer banjo (accept framming or frailing or banging or thrashing or thumb-cocking)"
+      },
+      "C": {
+        "question": "When Furtado was twelve, he was invited to perform with Mike Snider at this weekly country music concert based in Nashville.",
+        "answer": "Grand Ole Opry (prompt on \"Opry\") [Furtado was 19 when he won the prize.]"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about 2018 Broadway revivals centered on gay characters:",
+      "A": {
+        "question": "In 2018 a revival-record eleven Tony nominations were received by what two-part \"Gay Fantasia on National Themes\" by Tony Kushner?",
+        "answer": "Angels in America(: A Gay Fantasia on National Themes)"
+      },
+      "B": {
+        "question": "An all-gay cast appeared in a revival of a pioneering Mart Crowley play titled for the \"boys\" in one of these groups.  This kind of group is mentioned in the title of a history of the AIDS crisis by Randy Shilts.",
+        "answer": "bands (accept The Boys in the Band or And the Band Played On)"
+      },
+      "C": {
+        "question": "For a 2018 revival, Harvey Fierstein [\"fire\"-steen] created an updated version of this Tony-winning set of plays, which premiered in 1982.",
+        "answer": "Torch Song Trilogy"
+      }
+    },
+    {
+      "prompt": "This relationship can be measured with Spearman's rho.  For 10 points each -",
+      "A": {
+        "question": "Name this relationship that, according to an adage, does not imply causation.",
+        "answer": "correlation (accept linear correlation or rank correlation or correlation does not imply causation)"
+      },
+      "B": {
+        "question": "Spearman's rho is a statistic described by this word because no assumptions are made about the joint distribution of the two variables.  Statistical tests described by this thirteen -letter word are also called distribution free tests.",
+        "answer": "nonparametric (accept nonparametric statistic or nonparametric tests)"
+      },
+      "C": {
+        "question": "Unlike Pearson's r, Spearman's rho is able to discriminate between the data sets in this English statistician's \"quartet\" designed to demonstrate the limitations of summary statistics.",
+        "answer": "Frank Anscombe (or Francis John Anscombe)"
+      }
+    },
+    {
+      "prompt": "The Tuva Republic lies at the border between these two countries.  For 10 points each -",
+      "A": {
+        "question": "Name these two countries.  The Selenga River originates in one of them before flowing north into Lake Baikal in the other.",
+        "answer": "Russia (or Russian Federation or Rossiya or Rossiyskaya Federatsiya)   Mongolia (or Mongol Uls)"
+      },
+      "B": {
+        "question": "Tuva's cultural touchstones include khöömei [koo-may], a technique of this type of singing.  Its varieties include the whistle-like sygyt [suh-guht] and the ultra-deep kargyraa [kar-guh-rah].",
+        "answer": "throat singing (accept overtone singing or chanting or harmonic singing)"
+      },
+      "C": {
+        "question": "An international festival of throat singing is held every other year in this capital of Tuva.",
+        "answer": "Kyzyl [KIZ-ul] (or Kizil)"
+      }
+    },
+    {
+      "prompt": "This monarch shaved and broke a beard vow, leading Louise of Savoy to observe that kingly bonhomie [bon-oh-mee] lay \"not in the beards but in the hearts.\"  For 10 points each -",
+      "A": {
+        "question": "According to Robert III de la Marck [roh-bair \"the third\" deh la \"mark\"], what king became upset after losing a wrestling match at a sumptuous 1520 diplomatic summit?",
+        "answer": "Henry VIII [\"the eighth\"] of England (prompt on \"Henry\")"
+      },
+      "B": {
+        "question": "The beard kerfuffle at the Field of the Cloth of Gold was resolved when Thomas Boleyn blamed th e shaving on this woman, Henry's first wife, who was from Aragon.",
+        "answer": "Catherine of Aragon (or Catalina de Aragón)"
+      },
+      "C": {
+        "question": "Catherine entreated Henry to spurn an alliance with Francis in favor of Charles V [\"the fifth\"], who had been elected Holy Roman Emperor over both men on the strength of bribes and his sister's marriage to this king of Bohemia.",
+        "answer": "Louis II (of Hungary) (accept Ludvik II or Ludovik II or Lajos II; prompt on \"Louis\" or \"Lud(o)vik\" or \"Lajos\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the early years of the Associated Press Athlete of the Year award:",
+      "A": {
+        "question": "The first male winner was Pepper Martin, who like Dizzy Dean was one of the players Branch Rickey assembled to play for this National League franchise's 1930s \"Gashouse Gang\" teams.",
+        "answer": "St. Louis Cardinals (accept either underlined portion; accept Cards)"
+      },
+      "B": {
+        "question": "Both the first male and female repeat winners, Don Budge and Alice Marble, were selected for their accomplishments in this sport, also played by later winners Chris Evert [EV-urt] and Serena Williams.",
+        "answer": "tennis (accept tennis players)"
+      },
+      "C": {
+        "question": "The first male golfer to win the award was this Italian-American.  His win at the 1935 Masters made him the first player to win a career grand slam consisting of all four modern professional majors.",
+        "answer": "Gene Sarazen [SAIR-uh-zen] (or Eugenio Saraceni)"
+      }
+    },
+    {
+      "prompt": "Jonathan Schaffer's paper \"On What Grounds What\" notes that people who make claims about grounding often \"retreat to\" claims about this relation.  For 10 points each -",
+      "A": {
+        "question": "According to the Stanford Encyclopedia, property A has what relation to property B if \"there cannot be an A difference without a B difference\"?",
+        "answer": "supervenience [\"super\"-VEEN-ee-entz] (accept strong or weak supervenience; accept answers indicating forms of the word supervene such as supervening)"
+      },
+      "B": {
+        "question": "Dispute exists about whether supervenience avoids or entails this process, which explains complex phenomena, such as consciousness, in terms of \"lower level\" phenomena, such as physical activity in the brain.",
+        "answer": "reduction (accept reducing or reductionism or reductionist(s); accept strong or weak reductionism)"
+      },
+      "C": {
+        "question": "David Lewis named a type of supervenience after this Scottish author of An Enquiry Concerning Human Understanding.",
+        "answer": "David Hume (or David Home; accept Humean supervenience)"
+      }
+    },
+    {
+      "prompt": "These objects correspond to terminals in a programming language's context -free grammar.  For 10 points each -",
+      "A": {
+        "question": "Name these objects that a scanner or lexer [\"lex-er\"] generates by matching regular expressions to strings in an input file.",
+        "answer": "tokens (or lexemes)"
+      },
+      "B": {
+        "question": "These programs build abstract syntax trees, or ASTs, from input tokens.  These subprograms of compilers are classified by whether they build the AST from the top-down or from the bottom-up.",
+        "answer": "parsers"
+      },
+      "C": {
+        "question": "Source code is compiled to bytecode, which is then interpreted in the standard C implementation of this programming language whose name derives from a British comedy group.",
+        "answer": "Python (accept CPython; do not accept or prompt on \"Monty Python\")"
+      }
+    },
+    {
+      "prompt": "Tertullian suggested that this term could refer to some form of ear or head pain.  For 10 points each -",
+      "A": {
+        "question": "Give the term from the King James Bible used to name an ailment in a New Testament book.  After asking God to remove this thing, the man suffering from it is told \"my grace is sufficient for thee.\"",
+        "answer": "thorn in the flesh (or Paul's thorn)"
+      },
+      "B": {
+        "question": "Paul describes his thorn in his second epistle to these people.  Paul's first epistle to them says that \"love is patient, love is kind; it does not envy.\"",
+        "answer": "Corinthians (accept First Corinthians or Second Corinthians or First Epistle to the Corinthians or Second Epistle to the Corinthians)"
+      },
+      "C": {
+        "question": "Paul's thorn may have been a lingering form of this condition, which Paul briefly suffers in Acts of the Apostles.  Jesus heals Bartimaeus of this condition in Jericho.",
+        "answer": "blindness"
+      }
+    },
+    {
+      "prompt": "When Paris's Palais Garnier [pah-lay garn-YAY] held its inaugural concert in 1875, Gabrielle Krauss played the title character of an opera by this composer.  For 10 points each -",
+      "A": {
+        "question": "Name this composer whose 1835 grand opera La Juive [lah zhweev] is known in English as The Jewess.",
+        "answer": "Fromental Halévy [hah-lay-VEE] (or Jacques-François-Fromental-Élie Halévy)"
+      },
+      "B": {
+        "question": "This tenor performer's final role was as Eléazar [el-ee-ah-sar] in Halévy's La Juive.  His 1903 RCA Victor recording of the aria \"Vesti la giubba\" was the first-ever record to sell a million copies.",
+        "answer": "Enrico Caruso"
+      },
+      "C": {
+        "question": "Halévy's nephew Ludovic [loo-doh-veek] was the librettist for this composer's comic operas La Belle Hélène [lah bel ay-LEN] and Orpheus in the Underworld.",
+        "answer": "Jacques Offenbach (or Jacob Offenbach)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the career of Illinois senator Paul Douglas:",
+      "A": {
+        "question": "In the 1930s Douglas lobbied for the \"Chicago plan\" to severely restrict the multiplying activities of these institutions, including banning their \"fractional reserve\" structure.",
+        "answer": "(lending) banks (accept savings and loans or savings banks)"
+      },
+      "B": {
+        "question": "Interpretations differ on why Douglas presented a pitcher of orange juice during this 1957 event, which began on August 28 and lasted just over 24 hours.",
+        "answer": "Strom Thurmond's filibuster of the Civil Rights Act of 1957 (prompt on \"filibuster\"; accept James Strom Thurmond Sr. in place of \"Strom Thurmond\")"
+      },
+      "C": {
+        "question": "While a professor of economics at Amherst in 1928, Douglas co-authored an article with this fellow economist on the production of output by two inputs, such as capital and labor.",
+        "answer": "Charles (Wiggins) Cobb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "For 10 points each-name these intervals used in music:",
+      "A": {
+        "question": "This interval consists of 12 half-steps, the distance between middle C and the C above it.",
+        "answer": "(perfect) octave(s)"
+      },
+      "B": {
+        "question": "The use of this highly dissonant interval, sometimes called the \"devil in music,\" was shunned, but not banned, in medieval music.",
+        "answer": "tritone(s) [\"TRY-tones\"] (accept augmented fourth(s) or diminished fifth(s); prompt on \"fourth\" or \"fifth\")"
+      },
+      "C": {
+        "question": "The tonic and dominant of a major scale-such as the C and G in C major-define this interval.",
+        "answer": "perfect fifth(s)"
+      }
+    },
+    {
+      "prompt": "L'Hôpital's [loh-pee-TAHL'Z] rule is used to evaluate these values.  For 10 points each -",
+      "A": {
+        "question": "Name these values that a function approaches but may not reach.",
+        "answer": "limits"
+      },
+      "B": {
+        "question": "If a function equals its limit at a point, the function has this property at that point.",
+        "answer": "continuity or being continuous"
+      },
+      "C": {
+        "question": "L'Hôpital's rule describes how to take limits of the form \"zero over zero\" and \"infinity over infinity,\" which are examples of this type of expression.",
+        "answer": "indeterminate forms"
+      }
+    },
+    {
+      "prompt": "In a show on the Starz network, Stephen Amell [uh-MEL] and Alexander Ludwig [rhymes with \"good wig\"] play brothers who are part of a \"league\" for this activity.  For 10 points each -",
+      "A": {
+        "question": "What type of athletic entertainment is the subject of the show Heels?",
+        "answer": "professional wrestling (accept wrestlers or wrestles or wrestled; accept Duffy Wrestling League)"
+      },
+      "B": {
+        "question": "Alison Brie [bree] played a wrestler called \"Zoya the Destroya\" [ZOY-uh \"the\" dess-TROY-uh] in this Netflix show about a 1980s women's league.",
+        "answer": "GLOW [\"glow\"] [\"GLOW\" stands for \"Gorgeous Ladies of Wrestling.\"]"
+      },
+      "C": {
+        "question": "Many wrestlers of the '80s are depicted in the sitcom Young Rock, which is based on the life of this film star who rose to prominence in the WWE [\"W-W-E\"].",
+        "answer": "Dwayne (Douglas) Johnson (prompt on \"The Rock\")"
+      }
+    },
+    {
+      "prompt": "This European country has been governed by the Fifth Republic since 1958.  For 10 points each -",
+      "A": {
+        "question": "Name this country, whose Fourth Republic collapsed after having 21 administrations in its 12 -year existence.",
+        "answer": "France (or French Republic or République française)"
+      },
+      "B": {
+        "question": "This French leader returned from retirement to lead the transitional government, b ecoming the first president of the Fifth Republic.",
+        "answer": "Charles de Gaulle [sharl duh \"GOAL\"] (or Charles André Joseph Marie de Gaulle; do not accept or prompt on \"Gaulle\")"
+      },
+      "C": {
+        "question": "A major reason for the Fourth Republic's collapse was the crisis involving t his French colony, which gained independence in 1962.",
+        "answer": "Algeria"
+      }
+    },
+    {
+      "prompt": "The a and b parameters of the van der Waals [vahlz] equation account for deviations from this equation.  For 10 points each-",
+      "A": {
+        "question": "Name this equation that can be written as PV = nRT [\"P-V equals N-R-T\"].",
+        "answer": "ideal gas law (or general gas law; prompt on \"gas law\")"
+      },
+      "B": {
+        "question": "The ideal gas law does not account for molecular forces between \"induced\" examples of these structures, which produce London dispersion forces.",
+        "answer": "(electric) dipoles [\"DIE-pole\"] (or instantaneous dipoles or induced dipoles)"
+      },
+      "C": {
+        "question": "The T in the ideal gas law stands for this quantity, which for an ideal gas equals the average kinetic energy of its constituent particles.",
+        "answer": "(absolute) temperature (or thermodynamic temperature)"
+      }
+    },
+    {
+      "prompt": "Instructions given to Moses called for this container to be two-and-a-half cubits long and covered with gold.  For 10 points each-",
+      "A": {
+        "question": "Name this wooden box that carried the tablets containing the Ten Commandments.",
+        "answer": "Ark of the Covenant (or aron haberit)"
+      },
+      "B": {
+        "question": "This Old Testament book describes God giving instructions for the Ark of the Covenant to Moses on Mount Sinai.",
+        "answer": "Book of Exodus (or Shmot)"
+      },
+      "C": {
+        "question": "The Ark of the Covenant was kept in a sacred tent known in Hebrew as the mishkan [MISH-kahn] and usually translated as this word, which also names a Mormon choir.",
+        "answer": "tabernacle (accept Mormon Tabernacle Choir)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about John Pierre Burr:",
+      "A": {
+        "question": "Burr was the son of founding father Aaron Burr and Mary Emmons, a servant born in this city .  In 1756 43 British soldiers died in a prison called this city's \"Black Hole.\"",
+        "answer": "Calcutta (or Kolkata; accept Black Hole of Calcutta)"
+      },
+      "B": {
+        "question": "John Pierre Burr became a \"conductor\" on this metaphorical network through which people escaped slavery before the Civil War.",
+        "answer": "Underground Railroad"
+      },
+      "C": {
+        "question": "At some points in his career, Burr encouraged Black Americans to emigrate to this country.  It was founded in 1804 by Jean-Jacques Dessalines [dess-uh-leen].",
+        "answer": "Haiti (or Republic of Haiti or Republique d'Haïti or Repiblik d' Ayiti)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about Ferris wheels:",
+      "A": {
+        "question": "The original Ferris wheel was built in this city when it hosted the World's Columbian Exposition in 1893.",
+        "answer": "Chicago, Illinois"
+      },
+      "B": {
+        "question": "This wheel in England was the tallest in the world when it was completed in 2000.  It stands on the south bank of the River Thames.",
+        "answer": "London Eye (or Millennium Wheel)"
+      },
+      "C": {
+        "question": "What is now the world's tallest Ferris wheel, the High Roller, is on the namesake \"strip\" of this Nevada city near the Flamingo casino.",
+        "answer": "Las Vegas (accept Las Vegas Strip)"
+      }
+    },
+    {
+      "prompt": "This poem's title character advises \"He prayeth best who loveth best / all things both great and small.\"  For 10 points each-",
+      "A": {
+        "question": "Name this poem whose title character describes how a dead albatross that he killed with a crossbow was placed around his neck.",
+        "answer": "The Rime of the Ancient Mariner"
+      },
+      "B": {
+        "question": "This English poet wrote The Rime of the Ancient Mariner.",
+        "answer": "Samuel Taylor Coleridge"
+      },
+      "C": {
+        "question": "The Ancient Mariner waylays a \"guest\" planning to attend one of these events, to whom he recounts his tale.",
+        "answer": "wedding (or marriage or nuptials; accept the wedding-guest)"
+      }
+    },
+    {
+      "prompt": "Pencil and paper ready.  For 10 points each -answer these questions about a cube whose edges each have a length of 2:",
+      "A": {
+        "question": "What is the volume of the cube?",
+        "answer": "8 [V = s3 = 23 = 8]"
+      },
+      "B": {
+        "question": "What is the length of any space diagonal of the cube, given that space diagonals have their endpoints on diametrically-opposite vertices [VUR-tis-eez]?  You have 10 seconds.",
+        "answer": "2 times the square root of 3 or 2 root 3 or 2 radical 3 [d = sqrt(x2 + y2 + z2) = sqrt(22 + 22 + 22) = sqrt(22 * 3) = sqrt(22) * sqrt(3) = 2 root 3]"
+      },
+      "C": {
+        "question": "What is the volume of the largest sphere that can fit inside the cube, given that the sphere would have a diameter of 2?",
+        "answer": "4/3 pi [\"four-thirds pi\"] or 4 pi/3 or 1 1/3 pi (do not accept or prompt on \"4/3\" or \"1 1/3\") [V = (4/3) * pi * r2 = (4/3) * pi * (d/2)2 = (4/3) * pi * (2/2)2 = (4/3) * pi * 12 = 4/3 pi]"
+      }
+    },
+    {
+      "prompt": "In 1973 the Australian government controversially purchased this artist's Blue Poles-Number 11, 1952 for over one million Australian dollars.  For 10 points each -",
+      "A": {
+        "question": "Name this painter whose working technique involved sloshing, slinging, and dripping paint on large canvases.",
+        "answer": "(Paul) Jackson Pollock"
+      },
+      "B": {
+        "question": "Pollock's work was a milestone in a style of art known by this word, followed by the word \"expressionism.\"  In general, this word describes non-representational art.",
+        "answer": "abstract (expressionism) (or abstract expression(ist))"
+      },
+      "C": {
+        "question": "Pollock admired the work of José Clemente Orozco [hoh-ZAY klay-MIN-tay oh-ROHZ-koh], a muralist from this country.  Another muralist from this country painted Man at the Crossroads.",
+        "answer": "Mexico (or United Mexican States or Estados Unidos Mexicanos) [Man at the Crossroads was created by Diego Rivera.]"
+      }
+    },
+    {
+      "prompt": "Police shot 69 unarmed Black protesters in the Sharpeville Massacre, a demonstration against these specific laws.  For 10 points each-",
+      "A": {
+        "question": "Name these laws that specifically limited the movement of civilians in 20th -century South Africa by requiring all citizens to carry namesake books noting their race.",
+        "answer": "pass laws (accept passbook(s))"
+      },
+      "B": {
+        "question": "Pass laws were integral to this system of segregation in place until the 1990s.",
+        "answer": "apartheid [ah-PAR-tayd]"
+      },
+      "C": {
+        "question": "The Defiance Campaign was an anti-pass law movement led by this political party to which Nelson Mandela belonged.",
+        "answer": "ANC [\"A-N-C\"] (or African National Congress)"
+      }
+    },
+    {
+      "prompt": "Danish scientist Hans Christian Ørsted [UR-sted] showed that an electric current creates this type of field.  For 10 points each-",
+      "A": {
+        "question": "Name this type of field that affects compass needles.",
+        "answer": "magnetic field (accept B-field)"
+      },
+      "B": {
+        "question": "Earth's magnetic field is generated by currents due to movements of molten metal in this layer of the Earth.",
+        "answer": "outer core (prompt on \"core\"; do not accept or prompt on \"inner core\")"
+      },
+      "C": {
+        "question": "The direction of a magnetic field generated by a current is given by this rule.  It's also used to find the direction of a cross product.",
+        "answer": "right-hand rule (do not accept or prompt on \"hand rule\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about animals in picture books:",
+      "A": {
+        "question": "The title bat is separated from her mother and befriends the young birds Pip, Flitter, and Flap in this book by Janell [juh-NEL] Cannon.",
+        "answer": "Stellaluna [\"stella-luna\"]"
+      },
+      "B": {
+        "question": "This inquisitive monkey created by H.  and Margret Rey [ray] eventually leaves the zoo, and goes to live with the man in the yellow hat.",
+        "answer": "Curious George"
+      },
+      "C": {
+        "question": "One of these animals named Olivia appears in picture books by Ian Falconer [\"falcon\"-ur].  In a series by Mo Willems, the elephant Gerald is best friends with one of these mammals.",
+        "answer": "pigs (or Sus or Sus domesticus; accept swine or hogs or piglets; accept Piggie(s); accept Elephant and Piggie)"
+      }
+    },
+    {
+      "prompt": "This country's closest point to the U.S. is in the islands of Bimini [bee-MEE-nee], which are about 50 miles east of Miami.  For 10 points each -",
+      "A": {
+        "question": "Name this Caribbean archipelago whose districts include North Andros and Exuma.",
+        "answer": "The Bahamas (or Commonwealth of the Bahamas)"
+      },
+      "B": {
+        "question": "This is the capital and most populous city of the Bahamas.",
+        "answer": "Nassau [NAA-\"saw\"]"
+      },
+      "C": {
+        "question": "The tropical climate of the Bahamas is moderated by this warm oceanic current that originates in the Gulf of Mexico.",
+        "answer": "Gulf Stream"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about fire in ancient Rome:",
+      "A": {
+        "question": "This emperor built his Golden House on land cleared by the Great Fire of AD 64, which he blamed on Christians.",
+        "answer": "Nero (Claudius Caesar Augustus Drusus Germanicus)"
+      },
+      "B": {
+        "question": "This member of the First Triumvirate [\"try\"-UM-vih-rut], by some accounts the wealthiest Roman in history, gained some of his wealth by running a extortionary fire brigade.",
+        "answer": "Crassus [\"CRASS\"-uss] (or Marcus Licinius Crassus)"
+      },
+      "C": {
+        "question": "These six priestesses of the goddess Vesta [VESS-tuh] tended to an eternal flame in a temple in the Roman Forum.",
+        "answer": "Vestal Virgins (accept Vestales)"
+      }
+    },
+    {
+      "prompt": "For the first time, researchers in 2021 observed particles in certain environments reliably return to their exact starting positions.  For 10 points each -",
+      "A": {
+        "question": "The phenomenon is a \"boomerang effect\" named for this branch of physics that describes behavior at atomic and subatomic scales when physical values become discrete.",
+        "answer": "quantum mechanics (or quantum physics; accept quantum boomerang (effect))"
+      },
+      "B": {
+        "question": "The quantum boomerang effect occurs in environments with a high level of this quantity.  It is proportional to the log of the number of microstates according to Boltzmann's formula.",
+        "answer": "entropy"
+      },
+      "C": {
+        "question": "The observed particles were stimulated with one of these devices that emits light by stimulated emission of radiation.",
+        "answer": "laser(s)"
+      }
+    },
+    {
+      "prompt": "A lack of the G6PD [G-six-P-D] enzyme leads to oxidative destruction of these cells.  For 10 points each -",
+      "A": {
+        "question": "Name these non-nucleated cells that contain hemoglobin to transport oxygen.",
+        "answer": "red blood cell(s) (or erythrocytes or red blood corpuscle(s) or erythroid cell(s) or haematids; prompt on \"RBC(s)\")"
+      },
+      "B": {
+        "question": "A glutamate-to-valine mutation in hemoglobin causes this condition which causes red blood cells to take a crescent shape.",
+        "answer": "sickle cell disease or sickle cell anemia"
+      },
+      "C": {
+        "question": "Both G6PD deficiency and sickle hemoglobin may help protect against this infect ious disease spread by Anopheles mosquitoes.",
+        "answer": "malaria"
+      }
+    },
+    {
+      "prompt": "For 10 points each-name these common features of a baseball stadium:",
+      "A": {
+        "question": "Relief pitchers warm up in this area, which is typically in foul territory or beyond the outfield fence.",
+        "answer": "bullpen(s) (prompt on \"pen(s)\")"
+      },
+      "B": {
+        "question": "The edge of the outfield is lined with dirt known by this term, because it serves as an indicator that fie lders are close to a wall.",
+        "answer": "warning track(s)"
+      },
+      "C": {
+        "question": "To ensure that hitters can easily see a pitched ball, most parks have a solid, dark wall beyond center field known by this two-word term.",
+        "answer": "batter's eye (accept batter's eye screen)"
+      }
+    },
+    {
+      "prompt": "The term \"Yahgan\" [YAH-gahn] refers to the indigenous people of this archipelago [ARK-ih-PEL-uh-goh].  For 10 points each-",
+      "A": {
+        "question": "The Strait of Magellan [muh-JEL-lin] separates what archipelago from the South American mainland?",
+        "answer": "Tierra del Fuego [\"tee-AIR-ah\" del FWAY-goh]"
+      },
+      "B": {
+        "question": "South of Tierra del Fuego is this \"passage\" used by ships sailing around South America.  Like the Strait of Magellan, this passage is named for an explorer.",
+        "answer": "Drake Passage (or Mar de Hoces) [after Sir Francis Drake]"
+      },
+      "C": {
+        "question": "Argentina and this long, narrow country to the west of Argentina share the islands of Tierra del Fuego.",
+        "answer": "Chile [CHEE-lay] (or Republic of Chile or República de Chile)"
+      }
+    },
+    {
+      "prompt": "Thomas Midgley helped to develop the first commercial one of these compounds, which is sometimes called \"R-12.\"  For 10 points each -",
+      "A": {
+        "question": "Name these refrigerants that were phased out by the Montreal Protocol.",
+        "answer": "CFCs or chlorofluorocarbons [KLOR-oh-FLOR-oh-KAR-bunz] (accept Freons; do not accept or prompt on \"HCFC(s)\" or \"hydrochlorofluorocarbon(s)\")"
+      },
+      "B": {
+        "question": "CFCs exacerbated a \"hole\" in this atmospheric layer named for a molecule  consisting of three atoms of oxygen.",
+        "answer": "ozone layer (accept ozone hole)"
+      },
+      "C": {
+        "question": "Ozone depletion may lead to increased cancer risk because the ozone layer absorbs most of this type of radiation from the Sun.",
+        "answer": "ultraviolet or UV [\"U-V\"] (accept ultraviolet C or UV-C or vacuum ultraviolet or vacuum UV)"
+      }
+    },
+    {
+      "prompt": "Critics of this politician often cite his role in the 2002 anti-Muslim riots in Gujarat [GOO-juh-raht].  For 10 points each-",
+      "A": {
+        "question": "Name this leader of the nationalist party BJP.",
+        "answer": "Narendra (Damodardas) Modi [nah-ren-drah moh-dee]"
+      },
+      "B": {
+        "question": "Modi is the current prime minister of this country.",
+        "answer": "India (or Republic of India or Bharat(iya) Ganarajya)"
+      },
+      "C": {
+        "question": "In 2019 Modi dissolved a state named for Jammu [JAH-moo] and this other region, reorganizing it into a pair of union territories.",
+        "answer": "Kashmir (accept Jammu and Kashmir)"
+      }
+    },
+    {
+      "prompt": "This poem's speaker muses \"I'd like to get away from earth awhile.\"  For 10 points each -",
+      "A": {
+        "question": "Name this poem whose title trees are described as clicking \"upon themselves / as the breeze rises\" after an ice storm.",
+        "answer": "Birches"
+      },
+      "B": {
+        "question": "\"Birches\" is by this poet, who also wrote \"Stopping by Woods on a Snowy Evening.\"",
+        "answer": "Robert (Lee) Frost"
+      },
+      "C": {
+        "question": "This other poem by Frost is about a farmer whose neighbor quotes the adage \"good fences make good neighbors.\"",
+        "answer": "Mending Wall"
+      }
+    }
+  ]
+}

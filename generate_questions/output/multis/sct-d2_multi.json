@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "prompt": "The experience of this real-life figure was the inspiration for the play The Man in the Glass Booth.  For 10 points each-",
+      "A": {
+        "question": "Name this real-life person who, while handcuffed, is shaved by captor Peter Malkin in a 2018 film.",
+        "answer": "Adolf Eichmann [\"IKE\"-mun]"
+      },
+      "B": {
+        "question": "Eichmann's trial in Jerusalem inspired philosopher Hannah Arendt to describe the \"banality\" of this concept, which she saw within Eichmann.",
+        "answer": "evil (accept banality of evil)"
+      },
+      "C": {
+        "question": "Ward Churchill controversially used the phrase \"little Eichmanns\" to describe the people working in this New York complex during the 9/11 attacks.",
+        "answer": "World Trade Center (or WTC; accept Twin Towers)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the ancient sculptor Lysippos [\"lie\"-SIP-ohss]:",
+      "A": {
+        "question": "Lysippos made his sculptural heads one-eighth-rather than one-seventh-of the body.  Such ancient systems of human proportions are known by this term, from the Greek for \"sta ndard.\"",
+        "answer": "canon(s) of (body) proportions (or aesthetic canon(s))"
+      },
+      "B": {
+        "question": "Lysippos was the court sculptor for this ancient conqueror, who is shown on a sarcophagus [sar-KAH-fuh-gus] excavated from Sidon [\"SIDE\"-un] fighting the Persians at the Battle of Issus [IH-suss].",
+        "answer": "Alexander the Great (or Alexander III of Macedon or Aléxandros ho Mégas; prompt on \"Alexander\")"
+      },
+      "C": {
+        "question": "Lysippos is the attributed original sculptor of a work named for Atalante and depicting this Greek god, but without his common attribute of the caduceus [kuh-DOO-see-uss].",
+        "answer": "Hermes (accept Hermes of Atalante or Atalante Hermes; do not accept or prompt on \"Mercury\")"
+      }
+    },
+    {
+      "prompt": "Today, this solvent is the preferred solvent for many extraction methods, such as the decaffeination of coffee.  For 10 points each-",
+      "A": {
+        "question": "Name this solvent, a supercritical fluid that is also often used in its solid form.",
+        "answer": "supercritical carbon dioxide (or sCO2 or supercritical CO2)"
+      },
+      "B": {
+        "question": "Supercritical carbon dioxide has applications in these processes for washing clothing without water, as a replacement for \"perc\" [\"perk\"], or tetrachloroethylene [TET-ruh-klor-oh-ETH-uh-leen].",
+        "answer": "dry cleaning"
+      },
+      "C": {
+        "question": "Other green solvents include this class of liquids which are molten salts that exist as a liquid at standard temperature and pressure.",
+        "answer": "ionic liquids (accept liquid electrolytes; prompt on \"liquid salt(s)\")"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about statuses of near-citizenship:",
+      "A": {
+        "question": "Long-term immigrants and freed slaves in Athens could become metics [MET-iks] under the democratizing reforms introduced by this opponent of Hippias [HIP-ee-us] around 500 BC.",
+        "answer": "Cleisthenes [KLYSE-thuh-neez]"
+      },
+      "B": {
+        "question": "Naturalization was impossible in this country until 1914; prior to that time, the status of \"denizen\" had to be granted by monarchs from the House of Hanover for foreigners to own land here.",
+        "answer": "United Kingdom of Great Britain and Ireland or U.K. (accept any underlined portion; accept England or Scotland or Wales or Ireland; do not accept or prompt on \"Northern Ireland\")"
+      },
+      "C": {
+        "question": "In the U.S., \"lawful permanent residents\" are still issued a physical \"card\" of this color.",
+        "answer": "green (card)"
+      }
+    },
+    {
+      "prompt": "This author dedicated his story \"The Judgment\" to Felice Bauer [fay-LEET-zuh \"bower\"], who later became his fiancée.  For 10 points each-",
+      "A": {
+        "question": "Name this author whose literary executor, Max Brod [broht], did not carry out his instructions to burn his unfinished works.",
+        "answer": "Franz Kafka"
+      },
+      "B": {
+        "question": "Kafka died of tuberculosis [too-bur-\"cue\"-LOH-siss] in 1924, before completing this novel about K.'s struggles with a shadowy bureaucracy based in the title structure.",
+        "answer": "The Castle (or Das Schloss)"
+      },
+      "C": {
+        "question": "Another of Kafka's posthumous [PAHSS-chuh-muss] works was this novel, which begins with the unexplained arrest of Josef K [YOH-sef KAH].",
+        "answer": "The Trial (or Der Prozess)"
+      }
+    },
+    {
+      "prompt": "Answer the following about the uncle and nephew Fromental [froh-men-tahl] and Ludovic Halévy [loo-doh-veek hah-lay-VEE].  For 10 points each -",
+      "A": {
+        "question": "Ludovic Halévy was the librettist for this French composer's operetta Orpheus in the Underworld, which popularized the can-can.",
+        "answer": "Jacques Offenbach [zhahk AH-fin-bahk] (or Jacob Offenbach)"
+      },
+      "B": {
+        "question": "Ludovic Halévy also co-wrote the play Le Réveillon [luh ray-vay-awn] that became the basis for this Viennese composer's operetta Die Fledermaus [FLAY-dur-\"mouse\"].",
+        "answer": "Johann Strauss II [YOH-hahn shtrowss \"the second\"] (or Johann Baptist Strauss or Johann Strauss the Younger or Johann Strauss Jr.; prompt on \"Strauss\")"
+      },
+      "C": {
+        "question": "This tenor performer's final role was as Eléazar [el-ee-ah-sar] in Fromental Halévy's opera, La Juive [lah zhoo-eev].  His 1903 RCA Victor recording of the aria \"Vesti la giubba\" [VESS-tee lah JYOOB-bah] was the first-ever record to sell a million copies.",
+        "answer": "Enrico Caruso"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the early years of the Associated Press Athlete of  the Year award:",
+      "A": {
+        "question": "The first male winner was Pepper Martin, one of the players Branch Rickey assembled to play for this National League franchise's 1930s \"Gashouse Gang\" teams.",
+        "answer": "St. Louis Cardinals (accept either underlined portion; accept Cards)"
+      },
+      "B": {
+        "question": "Both the first male and female repeat winners, Don Budge and Alice Marble, were selected for their accomplishments in this sport, which was also played by later winners Chris Evert and Serena Williams.",
+        "answer": "tennis (accept tennis players)"
+      },
+      "C": {
+        "question": "In 1932 Gene Sarazen [SAIR-uh-zen] became the first male winner from this sport after winning both the U.S. Open and the British Open.",
+        "answer": "golf(ing)"
+      }
+    },
+    {
+      "prompt": "One of this author's plays opens in an \"octagon room\" at Sir Robert Chiltern's house.  For 10 points each -",
+      "A": {
+        "question": "Name this Dublin-born author whose play An Ideal Husband opened in 1895, the same year he was arrested for \"gross indecency.\"",
+        "answer": "Oscar Wilde [\"wild\"] (or Oscar Fingal O'Flahertie Wills Wilde)"
+      },
+      "B": {
+        "question": "This other Wilde play that opened in 1895 ended its London stage run soon after Wilde's arrest.  Jack and Algy [AL-jee] both pretend to have the title name in this farce.",
+        "answer": "The Importance of Being Earnest(, A Trivial Comedy for Serious People)"
+      },
+      "C": {
+        "question": "After being convicted, Wilde was incarcerated at this prison.  In a \"ballad\" named for this prison, Wilde claimed \"each man kills the thing he loves.\"",
+        "answer": "Reading Gaol [\"redding jail\"] (accept The Ballad of Reading Gaol)"
+      }
+    },
+    {
+      "prompt": "Before execution, computer code is \"tokenized\" or \"lexed\" into a stream of known strings with understood meaning.  For 10 points each -",
+      "A": {
+        "question": "Tokens are often recognized by matching against this kind of \"expression\" in which an asterisk signifies \"zero or more\" of the preceding pattern.",
+        "answer": "regular expression(s) (or regexes or regexps)"
+      },
+      "B": {
+        "question": "The tokens are fed into this kind of \"top-down\" or \"bottom-up\" program that builds an abstract syntax tree.  The 'P' in \"grep\" abbreviates a form of this word.",
+        "answer": "parser(s) (accept parsing program or parse program)"
+      },
+      "C": {
+        "question": "A compiler uses the abstract syntax tree to output machine code for later execution, unlike this kind of program that runs the code directly by examining the tree and implementing its operations.",
+        "answer": "interpreter(s)"
+      }
+    },
+    {
+      "prompt": "In June 1520 this English king met Francis I of France at a peace summit that devolved into an ostentatious display of wealth.  For 10 points each -",
+      "A": {
+        "question": "Name this king, who was accompanied to the Field of the Cloth of Gold by his wife Catherine of Aragon.",
+        "answer": "Henry VIII [\"the eighth\"] of England (prompt on \"Henry\")"
+      },
+      "B": {
+        "question": "Henry traveled to the meeting from this small English possession on the coast of France, which sits directly opposite Dover across the narrowest part of the English Channel.",
+        "answer": "(Pale of) Calais [\"cal\"-ay]"
+      },
+      "C": {
+        "question": "The meeting at the Field of the Cloth of Gold was arranged by this Archbishop of York, whom Henry later charged with treason for failing to annul his marriage to Catherine.",
+        "answer": "Thomas Wolsey (or Cardinal Wolsey or Thomas Woolsey)"
+      }
+    },
+    {
+      "prompt": "Actor Steve Martin, who plays this instrument, created an annual prize for players of it; one winner of that prize was Victor Furtado.  For 10 points each -",
+      "A": {
+        "question": "Name this circular-bodied string instrument used in bluegrass music.",
+        "answer": "banjo(s)"
+      },
+      "B": {
+        "question": "Furtado played on an album titled \"Masters of\" this technique, in which players place a hard cylinder, like a bottleneck, over one of their fingers and move it across the strings to produce g lissando [glih-SAHN-doh] or vibrato [vih-BRAH-toh].",
+        "answer": "slide technique (accept slide banjo; accept slide guitar)"
+      },
+      "C": {
+        "question": "When Furtado was twelve, he was invited to perform with Mike Snider on this country music show based in Nashville.",
+        "answer": "Grand Ole Opry (prompt on \"Opry\") [Furtado was 19 when he won the prize.]"
+      }
+    },
+    {
+      "prompt": "The Fourier [foo-ree-ay] transform relates a function's representations in position space and the space named for this quantity.  For 10 points each -",
+      "A": {
+        "question": "Name this quantity, whose \"linear\" type equals mass times velocity.",
+        "answer": "(linear) momentum (accept momentum space)"
+      },
+      "B": {
+        "question": "This quantum mechanics principle places a limit on simultaneous knowledge of both position and momentum.",
+        "answer": "Heisenberg [\"HIGH\"-zin-bairg] uncertainty principle (accept either underlined portion)"
+      },
+      "C": {
+        "question": "The product of the standard deviations of momentum and position must be at least one -half this constant denoted by a modified letter.  The momentum operator equals minus i times this constant times the gradient operator.",
+        "answer": "h-bar (or Dirac's constant; accept reduced Planck's constant; accept h over 2 pi or h divided by 2 pi; do not accept or prompt on \"Planck('s) (constant)\" or \"h\")"
+      }
+    },
+    {
+      "prompt": "In 1918 Theodore Roosevelt called the persecution of these people \"the greatest crime\"  of World War I.  For 10 points each-",
+      "A": {
+        "question": "Name this ethnic group whose intellectual leaders in Constantinople were rounded up and deported on Red Sunday in 1915.",
+        "answer": "Armenians (or hayer [hah-YEHR]; accept (but do not otherwise reveal) answers referencing the Armenian genocide)"
+      },
+      "B": {
+        "question": "In 1944 Raphael Lemkin coined this word to describe the Ottoman Empire's systematic killing of Armenians.  This word refers generally to the systematic destruction of a group of people.",
+        "answer": "genocide"
+      },
+      "C": {
+        "question": "In 1921 an Armenian assassin killed Mehmed Talaat, who had orchestrated Red Sunday; Talaat held this senior Ottoman title during the war, alongside Ahmed Djemal [JEH-mal] and Ismail Enver.",
+        "answer": "pasha (or pasa; accept Talaat Pasha or Djemal Pasha or Enver Pasha; accept (the) Three Pashas or Üç Pasalar)"
+      }
+    },
+    {
+      "prompt": "In this poem, Mary asks her husband to \"be kind,\" to which he replies \"When was I ever anything but kind to him?\"  For 10 points each -",
+      "A": {
+        "question": "Name this poem in which a couple asks why the title character has not walked \"thirteen little miles\" to the house of his brother, rather than lying down in their barn.",
+        "answer": "The Death of the Hired Man"
+      },
+      "B": {
+        "question": "\"The Death of the Hired Man\" is by this New England poet of \"Mending Wall.\"",
+        "answer": "Robert (Lee) Frost"
+      },
+      "C": {
+        "question": "\"The Death of the Hired Man\" defines this location as \"a place where, when you have to go there / They have to take you in.\"  Another Frost poem describes a \"Burial\" at this place.",
+        "answer": "home (accept Home Burial)"
+      }
+    },
+    {
+      "prompt": "Spearman's rho is a \"coefficient\" measuring this relationship.  For 10 points each -",
+      "A": {
+        "question": "Name this relationship which, according to an adage, does not imply causation.",
+        "answer": "correlation (accept linear correlation or rank correlation; accept correlation does not imply causation; accept answers indicating two variables are correlated)"
+      },
+      "B": {
+        "question": "Correlation coefficients range between these two numbers.",
+        "answer": "-1 and +1 (accept answers in either order; do not accept or prompt on partial answers)"
+      },
+      "C": {
+        "question": "Spearman's rho measures correlation by assessing if two ordinal variables are related by a function with this property.  Functions with this property are always either nonincreasing or nondecreasing.",
+        "answer": "monotonic [MAH-nuh-TAH-nik] (or monotonicity)"
+      }
+    },
+    {
+      "prompt": "This man is called the \"can-do man\" in the \"can-do era\" in David Halberstam's book The Best and the Brightest.  For 10 points each-",
+      "A": {
+        "question": "Name this secretary of defense, whose young \"Whiz Kids\" helped him craft his Vietnam War policies.",
+        "answer": "Robert (Strange) McNamara [MAK-nuh-mair-uh]"
+      },
+      "B": {
+        "question": "Many of the \"Whiz Kids\" mentioned in Halberstam's book once worked at this nonprofit think tank, a corporation founded by the Douglas Aircraft Company in 1948.",
+        "answer": "RAND Corporation (prompt on \"Research and Development\")"
+      },
+      "C": {
+        "question": "This deceased Arizona senator and Vietnam War hero wrote the preface to the most recent edition of The Best and the Brightest.",
+        "answer": "John McCain (or John Sidney McCain III)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about video games in which players must take unusual physical actions to progress:",
+      "A": {
+        "question": "In a Sega Genesis game starring this superhero team, characters like Wolverine, Cyclops, a nd Nightcrawler must \"reset\" a computer by pressing the console's actual reset button.",
+        "answer": "X-Men"
+      },
+      "B": {
+        "question": "Phantom Hourglass, a 2007 handheld entry in this series, required players to physically close and open the console to copy a map.",
+        "answer": "The Legend of Zelda (accept The Legend of Zelda: Phantom Hourglass)"
+      },
+      "C": {
+        "question": "StarTropics, a game on this 8-bit console, requires players to reveal a code by physically dipping a paper letter included with the game in water.",
+        "answer": "Nintendo Entertainment System or NES (or Famicom or Family Computer or FC; prompt on \"Nintendo\"; do not accept or prompt on \"Super NES\" or \"Super Nintendo\")"
+      }
+    },
+    {
+      "prompt": "Mr. White uses this story's title object to wish for 200 pounds, which he receives as compen sation after his son is killed in a workplace accident.  For 10 points each -",
+      "A": {
+        "question": "Name this horror story about a cursed item that Sergeant Major Morris brings to England.",
+        "answer": "The Monkey's Paw"
+      },
+      "B": {
+        "question": "This author of supernatural fiction wrote \"The Monkey's Paw.\"",
+        "answer": "W. W. Jacobs (or William Wymark Jacobs)"
+      },
+      "C": {
+        "question": "The monkey's paw was cursed by a fakir [fuh-KEER] in what is now this country.  The backstory to Arthur Conan Doyle's novel The Sign of the Four includes a robbery near the Agra [AH-gruh] Fort in what is now this country.",
+        "answer": "India (or Republic of India or Bharat(iya) Ganarajya)"
+      }
+    },
+    {
+      "prompt": "A series presented by this man illustrates the emergence of modern multinationals using the examples of the Dutch conglomerate Philips and the fictional \"UGE\" [\"U-G-E\"].  For 10 points each -",
+      "A": {
+        "question": "The BBC series The Age of Uncertainty was presented by what liberal economist who wrote The Affluent Society?",
+        "answer": "John Kenneth Galbraith [gahl-BRAYTH] (or Ken Galbraith)"
+      },
+      "B": {
+        "question": "In 1980 PBS aired the series Free to Choose, this economist's pro-market rebuttal to The Age of Uncertainty.",
+        "answer": "Milton Friedman"
+      },
+      "C": {
+        "question": "The Age of Uncertainty inspired a debate between Friedman and this Hungarian-born economist who is the first namesake of a type of \"efficiency\" that is less strict than Pareto [pah-RAY-toh] efficiency.",
+        "answer": "Nicholas Kaldor, Baron Kaldor (or Káldor Miklós; accept Kaldor-hicks efficiency)"
+      }
+    },
+    {
+      "prompt": "The Tuva Republic lies at the border between these two countries.  For 10 points each -",
+      "A": {
+        "question": "Name these two countries.  The Selenga River starts in one of them before flowing north  into Lake Baikal in the other.",
+        "answer": "Russia (or Russian Federation or Rossiya or Rossiyskaya Federatsiya)   Mongolia (or Mongol Uls)"
+      },
+      "B": {
+        "question": "The Tuvan people traditionally resided in these portable round tents, known as ger in neighboring Mongolia.",
+        "answer": "yurts"
+      },
+      "C": {
+        "question": "Tuva's cultural touchstones include khöömei [koo-may], a technique of this type of singing.  Its varieties include the whistle-like sygyt [suh-gut] and the ultra-deep kargyraa [kar-guh-rah].",
+        "answer": "throat singing (accept overtone singing or chanting or harmonic singing)"
+      }
+    },
+    {
+      "prompt": "A 20th-century thinker from this country wrote the book The Revolt of the Masses.  For 10 points each -",
+      "A": {
+        "question": "Name this European country that was home to José Ortega y Gasset.  A friar from here, Bartolomé de las Casas, critiqued its \"destruction of the Indies.\"",
+        "answer": "Spain (or Kingdom of Spain or Reino de España)"
+      },
+      "B": {
+        "question": "This Spanish-born philosopher wrote that \"those who cannot remember the past are condemned to repeat it\" in The Life of Reason.",
+        "answer": "George Santayana (or Jorge Agustín Nicolás Ruiz de Santayana y Borrás)"
+      },
+      "C": {
+        "question": "Another Santayana book contrasts this attitude with \"animal faith.\"  Sextus Empiricus outlined the Pyrrhonian type of this outlook.",
+        "answer": "skepticism (accept Skepticism and Animal Faith or Pyrrhonian skepticism)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the process known as \"Megxit\":",
+      "A": {
+        "question": "Megxit refers to the decision of this man and his wife, Meghan Markle, to withdraw from the British royal family in 2020.",
+        "answer": "Prince Harry (or Harry, Duke of Sussex)"
+      },
+      "B": {
+        "question": "The term \"Megxit,\" a reference to \"Brexit,\" was coined by this conservative tabloid newspaper, which is the second-highest circulated paper in the U.K.",
+        "answer": "The Sun"
+      },
+      "C": {
+        "question": "Despite their withdrawal, Harry and Meghan are still formally known as the Duke and Duchess of this historic county.",
+        "answer": "Sussex (accept Duke of Sussex or Duchess of Sussex)"
+      }
+    },
+    {
+      "prompt": "For 10 points each-answer the following about the career of Illinois senator Paul Douglas:",
+      "A": {
+        "question": "In the 1930s Douglas lobbied for the \"Chicago plan\" to severely restrict the multiplying activities of these institutions, including banning their \"fractional reserve\" structure.",
+        "answer": "(lending) banks (accept savings and loans or savings banks)"
+      },
+      "B": {
+        "question": "Interpretations differ on why Douglas presented a pitcher of orange juice during this racist South Carolina senator's 1957 filibuster of the Civil Rights Act.",
+        "answer": "Strom Thurmond (or James Strom Thurmond Sr.)"
+      },
+      "C": {
+        "question": "During World War II, at the age of 50, Douglas completed training at this South Carolina \"isla nd\" that is a major site for new recruits in the U.S. Marine Corps.",
+        "answer": "Parris Island (accept Marine Corps Recruit Depot Parris Island)"
+      }
+    }
+  ]
+}

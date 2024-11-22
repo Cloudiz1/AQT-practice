@@ -1,0 +1,1 @@
+remake compile_jsons.py but this time just output it as two js arrays in a js file

@@ -1,8 +1,43 @@
+/* html, body, .main-content {
+    background-color: black;
+} */
+html, body, .flashcard, .button {
+    transition: all 250ms ease-out;
+}
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #d7cdec;
+    overflow-y: hidden;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    gap: 15px;
+}
+
+.navbar-button {
+    background: none;
+    border: none;
+}
+
+.icon {
+    font-size: 30px;
+    color: black;
+}
+
 .main-content {
     width: 50%;
     margin: auto;
-    height: 40vh;
-    margin-top: 15vh;
+    height: 50vh;
+    padding-top: 17.5vh;
+    padding-bottom: 50vh;
 }
 
 .flashcard {
@@ -10,15 +45,115 @@
     height: 100%;
     overflow-y: scroll;
     word-wrap: break-word;
-    background-color: grey;
+    background-color: #cac0e2;
+    border-radius: 25px;
 }
 
 .text-area {
-    width: 100%;
-    height: 100%;
+    width: calc(100%-40px);
+    height: calc(100%-40px);
     font-size: 21px;
     margin: 0px;
     padding: 20px;
     text-align: center;
     justify-content: center;
+    color: #303030;
+}
+
+.prompt-area-div {
+    height: 10vh;
+    overflow-y: scroll;
+}
+
+.button {
+    width: 20%;
+    margin: auto;
+    margin-top: 45px;
+    width: 65px;
+    height: 65px;
+    border-radius: 100%;
+    background: #cac0e2;
+    border: none;
+}
+
+.button-icon {
+    font-size: 22px;
+}
+
+.next-button {
+    position: absolute;
+    top: 44vh;
+    right: 18vw;
+}
+
+.previous-button {
+    position: absolute;
+    top: 44vh;
+    left: 18vw;
+}
+
+.settings-menu {
+    width: 500px;
+    height: 50vh;
+    position: absolute;
+    background-color: #b6a8d6;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 22vh;
+    display: none;
+    transition: all ease-out 250ms;
+    opacity: 0;
+    border-radius: 25px;
+}
+
+.settings-title {
+    margin: 10px;
+}
+
+.settings-heading {
+    margin: 0;
+    margin-left: 20px;
+}
+
+.settings-div {
+    padding-left: 40px;
+}
+
+.close-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.theme-buttons-div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 20px;
+    width: 75%;
+    margin: 15px auto;
+}
+
+.theme-mode-div {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    gap: 20px;
+    width: 75%;
+    margin: 15px 50px;
+}
+
+.theme-button {
+    width: 50px;
+    height: 50px;
+    border: solid 2px black;
+    border-radius: 100%;
+}
+
+#blur-when-menus-open {
+    transition: all linear 250ms;
 }

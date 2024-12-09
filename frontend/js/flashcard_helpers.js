@@ -1,4 +1,4 @@
-import {singles, multis} from "./data.js"
+import {singles, multis} from "../data/data.js"
 
 class Single_Question {
     constructor(type, question, answer)
@@ -42,7 +42,7 @@ function generate_next_question()
     return all_questions[index];
 }
 
-function get_prev_question() {
+function generate_prev_question() {
     if (index == 0)
     {
         alert("Can not go back any further.")
@@ -55,8 +55,7 @@ function get_prev_question() {
 
 function populate_text_area(input_text)
 {
-    let text_area = document.getElementById("text-area")
-    text_area.innerText = input_text
+    document.getElementById("text-area").innerText = input_text
 }
 
 function populate_prompt_area(input_text)
@@ -93,7 +92,7 @@ export {
     generate_next_question,
     populate_text_area,
     shuffle_array,
-    get_prev_question,
+    generate_prev_question,
     populate_prompt_area,
     init
 }

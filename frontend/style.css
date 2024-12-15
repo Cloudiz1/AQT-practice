@@ -1,7 +1,4 @@
-/* html, body, .main-content {
-    background-color: black;
-} */
-html, body, .flashcard, .button {
+* {
     transition: all 250ms ease-out;
 }
 
@@ -92,7 +89,8 @@ html, body {
     left: 18vw;
 }
 
-.settings-menu {
+.menu {
+    overflow-y: scroll;
     width: 500px;
     height: 50vh;
     position: absolute;
@@ -157,3 +155,36 @@ html, body {
 #blur-when-menus-open {
     transition: all linear 250ms;
 }
+
+.moon-icon {
+    font-size: 28px;
+}
+
+.dark-mode {
+    color: white;
+}
+
+.light-mode {
+    color: black;
+}
+
+.dark-mode-button {
+    background-color: black;
+    border: 2px solid white;
+}
+
+.light-mode-button {
+    background-color: white;
+    border: 2px solid black;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.menu::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.menu {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+} 

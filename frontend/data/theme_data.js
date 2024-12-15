@@ -8,8 +8,8 @@ export const themes = [
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
+                "primary": "#910f0f",
+                "background": "#4a0000",
                 "menus": "placeholder",
             }
         }

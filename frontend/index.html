@@ -14,10 +14,10 @@
     <div id="blur-when-menus-open">
         <navbar class="navbar">
             <button class="navbar-button">
-                <i class="fa-solid fa-circle-info icon"></i>
+                <i class="fa-solid fa-circle-info icon" onclick="open_settings('info')""></i>
             </button>
-            <button class="navbar-button" onclick="open_settings()">
-                <i class="fa-solid fa-gear icon"></i>
+            <button class="navbar-button">
+                <i class="fa-solid fa-gear icon" onclick="open_settings('settings')"></i>
             </button class="navbar-button">
             <a href="https://github.com/Cloudiz1/AQT-practice-site" target="_blank">
                 <i class="fa-brands fa-github icon"></i>
@@ -41,11 +41,11 @@
         </div>
     </div>
 
-    <div class="menu settings-menu" id="settings-menu">
-        <button class="close-button navbar-button" onclick="close_settings()">
+    <div class="menu" id="settings-menu">
+        <button class="close-button navbar-button" onclick="close_settings('settings')">
             <i class="fa-solid fa-x icon"></i>
         </button>
-        <h1 class="settings-title">Settings</h2>
+        <h2 class="settings-title">Settings</h2>
 
         <h2 class="settings-heading">Filters: </h2>
         <div class="settings-div">
@@ -58,9 +58,21 @@
 
         <h2 class="settings-heading">Theme mode: </h2>
         <div class="theme-mode-div">
-            <button class="theme-button"></button>
+            <button class="theme-button light-mode-button" id="dark-mode-button" onclick="change_mode()">
+                <i class="fa-solid fa-moon moon-icon light-mode" id="moon-icon"></i>    
+            </button>
             <button class="theme-button"></button>
         </div>
     </div>
+
+    <div class="menu" id="info-menu">
+        <button class="close-button navbar-button" onclick="close_settings('info')">
+            <i class="fa-solid fa-x icon"></i>
+        </button>
+    </div>
+
+    <!-- <div class="menu info-menu" id="info-menu">
+        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure soluta repellat, aut recusandae libero magni. Praesentium illo enim aspernatur totam, harum laboriosam, facilis quos, esse quidem beatae voluptate obcaecati?</h2>
+    </div> -->
 </body>
 </html>

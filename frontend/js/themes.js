@@ -1,4 +1,5 @@
 import {themes, keys} from "../data/theme_data.js"
+import {set_cookie, read_cookie} from "./cookies.js"
 let mode = "light"
 let curr_color_index = 0;
 
@@ -34,6 +35,7 @@ function ARCforarray(array, add, remove)
 }
 
 window.change_theme = function(index) {
+    set_cookie("color_index", index);
     curr_color_index = index;
     let key = keys[index];
     let new_theme = themes[index][key][mode]
@@ -52,10 +54,16 @@ window.change_theme = function(index) {
     }
 }
 
-window.change_mode = function()
+window.change_mode = function(change_to = null)
 {
+    if (change_to == mode)
+    {
+        return;
+    }
+
     if (mode == "light")
     {
+        set_cookie("mode", "dark");
         mode = "dark";
         moon_icon.classList.remove("light-mode");
         moon_icon.classList.add("dark-mode");
@@ -68,6 +76,7 @@ window.change_mode = function()
     }
     else
     {
+        set_cookie("mode", "light");
         mode = "light";
         moon_icon.classList.remove("dark-mode");
         moon_icon.classList.add("light-mode");
@@ -80,4 +89,14 @@ window.change_mode = function()
     }
 
     change_theme(curr_color_index);
+}
+
+function init_themes()
+{
+    change_theme(read_cookie("color_index"));
+    change_mode(read_cookie("mode"));
+}
+
+export {
+    init_themes
 }

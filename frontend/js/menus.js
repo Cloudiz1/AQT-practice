@@ -43,7 +43,5 @@ window.close_settings = function(req_element)
         element.style.display = "none"
     }, 300)
 
-    console.log(element);
-
     background.style.filter = "blur(0px)"
 }

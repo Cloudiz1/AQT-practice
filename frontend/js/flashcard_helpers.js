@@ -33,7 +33,7 @@ function obj_to_question_class(question)
     return new Single_Question("single", question.question, question.answer)
 }
 
-let index = -1; // accounts for the fist generate questions call
+let index = -1; // accounts for the first generate questions call
 let all_questions;
 
 function generate_next_question()
@@ -70,7 +70,7 @@ function shuffle_array(array) {
     }
 }
 
-function init() {
+function init_flashcards() {
     for (let i = 0; i < singles.length; i++)
     {
         singles[i] = obj_to_question_class(singles[i])
@@ -86,6 +86,8 @@ function init() {
     shuffle_array(singles)
     shuffle_array(multis)
     shuffle_array(all_questions)
+
+    index = -1;
 }
 
 export {
@@ -94,5 +96,5 @@ export {
     shuffle_array,
     generate_prev_question,
     populate_prompt_area,
-    init
+    init_flashcards
 }

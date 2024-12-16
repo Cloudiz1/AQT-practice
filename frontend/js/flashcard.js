@@ -1,6 +1,4 @@
-import {generate_next_question, generate_prev_question, populate_text_area, populate_prompt_area, init} from "./flashcard_helpers.js"
-
-init()
+import {generate_next_question, generate_prev_question, populate_text_area, populate_prompt_area} from "./flashcard_helpers.js"
 
 let current_question;
 let showing_answer = false;

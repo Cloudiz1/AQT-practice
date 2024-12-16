@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="js/flashcard.js" type="module" defer></script>
-    <script src="js/menus.js" type="module" defer></script>
-    <script src="js/themes.js" type="module" defer></script>
+    <script src="js/init.js" type="module"></script>
+    <script src="js/flashcard.js" type="module" ></script>
+    <script src="js/menus.js" type="module" ></script>
+    <script src="js/themes.js" type="module" ></script>
     <link href="./style.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/c400fd927b.js" crossorigin="anonymous"></script>
 </head>
@@ -45,18 +46,18 @@
         <button class="close-button navbar-button" onclick="close_settings('settings')">
             <i class="fa-solid fa-x icon"></i>
         </button>
-        <h2 class="settings-title">Settings</h2>
+        <h2 class="menu-title">Settings</h2>
 
-        <h2 class="settings-heading">Filters: </h2>
-        <div class="settings-div">
+        <h2 class="menu-heading">Filters: </h2>
+        <div class="menu-div">
             <p>Not currently implemented.</p>
         </div>
 
-        <h2 class="settings-heading">Themes: </h2>
+        <h2 class="menu-heading">Themes: </h2>
         <div class="theme-buttons-div" id="theme-buttons-div">
         </div>
 
-        <h2 class="settings-heading">Theme mode: </h2>
+        <h2 class="menu-heading">Theme mode: </h2>
         <div class="theme-mode-div">
             <button class="theme-button light-mode-button" id="dark-mode-button" onclick="change_mode()">
                 <i class="fa-solid fa-moon moon-icon light-mode" id="moon-icon"></i>    
@@ -69,6 +70,10 @@
         <button class="close-button navbar-button" onclick="close_settings('info')">
             <i class="fa-solid fa-x icon"></i>
         </button>
+        <h2 class="menu-title">About: </h2>
+        <div class="menu-div">
+            <p></p>
+        </div>
     </div>
 
     <!-- <div class="menu info-menu" id="info-menu">

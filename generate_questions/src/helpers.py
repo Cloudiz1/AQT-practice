@@ -28,7 +28,7 @@ def clean_question_list(input_list):
     output_list = []
     for i, question in enumerate(input_list):
         desired_string = str(i + 1) + "."
-        cleaned_question = question.split(desired_string)
+        cleaned_question = question.replace("\n", "").split(desired_string)
         
         del cleaned_question[0]
         

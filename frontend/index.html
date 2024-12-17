@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="js/init.js" type="module"></script>
-    <script src="js/flashcard.js" type="module" ></script>
-    <script src="js/menus.js" type="module" ></script>
-    <script src="js/themes.js" type="module" ></script>
+    <script src="js/init.js" type="module" defer></script>
+    <script src="js/flashcard.js" type="module" defer></script>
+    <script src="js/menus.js" type="module" defer></script>
+    <script src="js/themes.js" type="module" defer></script>
     <link href="./style.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/c400fd927b.js" crossorigin="anonymous"></script>
 </head>
@@ -70,9 +70,17 @@
         <button class="close-button navbar-button" onclick="close_settings('info')">
             <i class="fa-solid fa-x icon"></i>
         </button>
-        <h2 class="menu-title">About: </h2>
+        <h2 class="menu-title">Info: </h2>
+        <h2 class="menu-heading">About: </h2>
         <div class="menu-div">
-            <p></p>
+            <p>A simple website to practice AQT style questions. The questions are grabbed from the official AQT website. These questions can be found <a href="https://www.naqt.com/samples/" target="_blank">here: </a></p>
+        </div>
+
+        <h2 class="menu-heading">FAQ: </h2>
+
+        <div class="menu-div">
+            <p>Q: What are all the "�" symbols I keep seeing?</p>
+            <p>A: Due to limitations in the </p>
         </div>
     </div>
 

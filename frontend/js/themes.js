@@ -1,8 +1,9 @@
-import {themes, keys} from "../data/theme_data.js"
+import {themes} from "./init.js"
 import {set_cookie, read_cookie} from "./cookies.js"
 let mode = "light"
 let curr_color_index = 0;
 
+const keys = ["red", "orange", "yellow", "green", "blue", "purple", "pink", "white", "tan", "black"]
 const themes_div = document.getElementById("theme-buttons-div")
 const flashcard = document.getElementById("flashcard")
 const buttons = document.getElementsByClassName("button")
@@ -13,16 +14,6 @@ const icons = document.getElementsByClassName("icon")
 const button_icons = document.getElementsByClassName("button-icon")
 const text = document.getElementsByTagName("p")
 const headers = document.getElementsByTagName("h2")
-
-for (let i = 0; i < 10; i++)
-{
-    let key = keys[i];
-    let theme_button = document.createElement("button");
-    theme_button.classList.add("theme-button");
-    theme_button.style.background = themes[i][key][mode]["primary"]; // eventually replace "light" with the mode once that eventually gets implemented
-    theme_button.onclick = function() {change_theme(i)}
-    themes_div.appendChild(theme_button);
-}
 
 // add + remove class for list
 function ARCforarray(array, add, remove)
@@ -93,6 +84,16 @@ window.change_mode = function(change_to = null)
 
 function init_themes()
 {
+    for (let i = 0; i < 10; i++)
+        {
+            let key = keys[i];
+            let theme_button = document.createElement("button");
+            theme_button.classList.add("theme-button");
+            theme_button.style.background = themes[i][key][mode]["primary"]; 
+            theme_button.onclick = function() {change_theme(i)}
+            themes_div.appendChild(theme_button);
+        }
+        
     change_theme(read_cookie("color_index"));
     change_mode(read_cookie("mode"));
 }

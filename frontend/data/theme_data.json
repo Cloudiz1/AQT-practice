@@ -8,39 +8,9 @@
             },
 
             "dark": {
-                "primary": "#910f0f",
-                "background": "#4a0000",
-                "menus": "placeholder"
-            }
-        }
-    },
-    {
-        "orange": {
-            "light": {
-                "primary": "#f7c58b",
-                "background": "#f2d7b8",
-                "menus": "#deb07c"
-            },
-
-            "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
-            }
-        }
-    },
-    {
-        "yellow": {
-            "light": {
-                "primary": "#f5edb0",
-                "background": "#f2edc4",
-                "menus": "#eddfa1"
-            },
-
-            "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#590808",
+                "background": "#450a0a",
+                "menus": "#6e0e0e"
             }
         }
     },
@@ -53,9 +23,9 @@
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#145c1d",
+                "background": "#053b0c",
+                "menus": "#056610"
             }
         }
     },
@@ -68,9 +38,9 @@
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#073761",
+                "background": "#03223d",
+                "menus": "#0d477a"
             }
         }
     },
@@ -83,9 +53,9 @@
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#2a1463",
+                "background": "#190a40",
+                "menus": "#362169"
             }
         }
     },
@@ -98,24 +68,9 @@
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
-            }
-        }
-    },
-    {
-        "white": {
-            "light": {
-                "primary": "#ededed",
-                "background": "#fafafa",
-                "menus": "#e0e0e0"
-            },
-
-            "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#610d3a",
+                "background": "#3b0522",
+                "menus": "#7a1149"
             }
         }
     },
@@ -128,24 +83,24 @@
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#6b4619",
+                "background": "#422a0d",
+                "menus": "#754f20"
             }
         }
     },
     {
-        "black": {
+        "default": {
             "light": {
-                "primary": "#696969",
-                "background": "#757575" ,
-                "menus": "#5e5e5e"
+                "primary": "#ededed",
+                "background": "#fafafa",
+                "menus": "#e0e0e0"
             },
 
             "dark": {
-                "primary": "placeholder",
-                "background": "placeholder",
-                "menus": "placeholder"
+                "primary": "#363636",
+                "background": "#1a1a1a",
+                "menus": "#474747"
             }
         }
     }

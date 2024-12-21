@@ -3,13 +3,13 @@ import {set_cookie, read_cookie} from "./cookies.js"
 let mode = "light"
 let curr_color_index = 0;
 
-const keys = ["red", "orange", "yellow", "green", "blue", "purple", "pink", "white", "tan", "black"]
+let theme_buttons = []
+const keys = ["red", "green", "blue", "purple", "pink", "tan", "default"]
 const themes_div = document.getElementById("theme-buttons-div")
 const flashcard = document.getElementById("flashcard")
 const buttons = document.getElementsByClassName("button")
 const menus = document.getElementsByClassName("menu")
 const moon_icon = document.getElementById("moon-icon")
-const dark_mode_button = document.getElementById("dark-mode-button")
 const icons = document.getElementsByClassName("icon")
 const button_icons = document.getElementsByClassName("button-icon")
 const text = document.getElementsByTagName("p")
@@ -58,8 +58,6 @@ window.change_mode = function(change_to = null)
         mode = "dark";
         moon_icon.classList.remove("light-mode");
         moon_icon.classList.add("dark-mode");
-        dark_mode_button.classList.remove("light-mode-button");
-        dark_mode_button.classList.add("dark-mode-button");
         ARCforarray(icons, "dark-mode", "light-mode");
         ARCforarray(button_icons, "dark-mode", "light-mode");
         ARCforarray(text, "dark-mode", "light-mode");
@@ -71,8 +69,6 @@ window.change_mode = function(change_to = null)
         mode = "light";
         moon_icon.classList.remove("dark-mode");
         moon_icon.classList.add("light-mode");
-        dark_mode_button.classList.remove("dark-mode-button");
-        dark_mode_button.classList.add("light-mode-button");
         ARCforarray(icons, "light-mode", "dark-mode");
         ARCforarray(button_icons, "light-mode", "dark-mode");
         ARCforarray(text, "light-mode", "dark-mode");
@@ -80,22 +76,32 @@ window.change_mode = function(change_to = null)
     }
 
     change_theme(curr_color_index);
+    set_theme_button_bg()
 }
 
 function init_themes()
 {
-    for (let i = 0; i < 10; i++)
+    for (let i = 0; i < keys.length; i++)
         {
-            let key = keys[i];
             let theme_button = document.createElement("button");
             theme_button.classList.add("theme-button");
-            theme_button.style.background = themes[i][key][mode]["primary"]; 
             theme_button.onclick = function() {change_theme(i)}
             themes_div.appendChild(theme_button);
+            theme_buttons.push(theme_button);
         }
         
     change_theme(read_cookie("color_index"));
     change_mode(read_cookie("mode"));
+
+    set_theme_button_bg()
+}
+
+function set_theme_button_bg() {
+    for (let i = 0; i < theme_buttons.length; i++)
+    {
+        let key = keys[i];
+        theme_buttons[i].style.background = themes[i][key][mode]["primary"];
+    }
 }
 
 export {

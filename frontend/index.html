@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <script src="js/init.js" type="module" defer></script>
     <script src="js/flashcard.js" type="module" defer></script>
     <script src="js/menus.js" type="module" defer></script>
@@ -20,7 +23,10 @@
             <button class="navbar-button">
                 <i class="fa-solid fa-gear icon" onclick="open_settings('settings')"></i>
             </button class="navbar-button">
-            <a href="https://github.com/Cloudiz1/AQT-practice-site" target="_blank">
+            <button class="navbar-button" id="dark-mode-button" onclick="change_mode()">
+                <i class="fa-solid fa-moon moon-icon light-mode" id="moon-icon"></i>    
+            </button>
+            <a class="navbar-link" href="https://github.com/Cloudiz1/AQT-practice-site" target="_blank">
                 <i class="fa-brands fa-github icon"></i>
             </a>
         </navbar>
@@ -56,14 +62,6 @@
         <h2 class="menu-heading">Themes: </h2>
         <div class="theme-buttons-div" id="theme-buttons-div">
         </div>
-
-        <h2 class="menu-heading">Theme mode: </h2>
-        <div class="theme-mode-div">
-            <button class="theme-button light-mode-button" id="dark-mode-button" onclick="change_mode()">
-                <i class="fa-solid fa-moon moon-icon light-mode" id="moon-icon"></i>    
-            </button>
-            <button class="theme-button"></button>
-        </div>
     </div>
 
     <div class="menu" id="info-menu">
@@ -76,16 +74,11 @@
             <p>A simple website to practice AQT style questions. The questions are grabbed from the official AQT website. These questions can be found <a href="https://www.naqt.com/samples/" target="_blank">here: </a></p>
         </div>
 
-        <h2 class="menu-heading">FAQ: </h2>
+        <h2 class="menu-heading">Contact Me: </h2>
 
         <div class="menu-div">
-            <p>Q: What are all the "�" symbols I keep seeing?</p>
-            <p>A: Due to limitations in the </p>
+            <p>If there are any issues, suggestions, or you just want to contact me, email me at <a class="redirect" href="mailto:vincentni2007@gmail.com">vincentni2007@gmail.com</a>.</p>
         </div>
     </div>
-
-    <!-- <div class="menu info-menu" id="info-menu">
-        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure soluta repellat, aut recusandae libero magni. Praesentium illo enim aspernatur totam, harum laboriosam, facilis quos, esse quidem beatae voluptate obcaecati?</h2>
-    </div> -->
 </body>
 </html>

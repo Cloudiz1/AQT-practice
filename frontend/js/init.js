@@ -16,16 +16,7 @@ function read_json(path, mode)
         return res.arrayBuffer();
     })
     .then((data) => {
-        if (mode == "utf16")
-        {
-            const decoder = new TextDecoder('utf-16');
-            const text = decoder.decode(data);
-            return JSON.parse(text);
-        }
-        
-        // i genuinely have no idea why i need this here
-        // maybe something to do with BOM???
-        const decoder = new TextDecoder('utf-8');
+        const decoder = new TextDecoder(mode);
         const text = decoder.decode(data);
         return JSON.parse(text);
     })
@@ -34,22 +25,22 @@ function read_json(path, mode)
     })
 }
 
-read_json(themes_path, "utf8")
+read_json(themes_path, "utf-8")
 .then((data) => {
     themes = data;
     init_themes()
 
-    // adds transition style after initial theme init to avoid the background taking extra time to initialize
+    // adds transition style after initial theme init to avoid the theme taking extra time to initialize
     setTimeout(() => {
         const all_elements = document.querySelectorAll("*");
         for(let i = 0; i < all_elements.length; i++)
         {
-            all_elements[i].style.transition = "all 250ms ease-out";
+            all_elements[i].style.transition = "all 300ms ease-out";
         }
     }, 25)
 })
 
-read_json(questions_path, "utf16")
+read_json(questions_path, "utf-16")
 .then((data) => {
     singles = data["singles"];
     multis = data["multis"];

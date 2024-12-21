@@ -1,3 +1,12 @@
+* {
+    font-family: "Noto Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
 html, body {
     margin: 0px;
     padding: 0px;
@@ -97,7 +106,6 @@ html, body {
     right: 0;
     top: 22vh;
     display: none;
-    transition: all ease-out 250ms;
     opacity: 0;
     border-radius: 25px;
 }
@@ -148,30 +156,16 @@ html, body {
     border-radius: 100%;
 }
 
-#blur-when-menus-open {
-    transition: all linear 250ms;
-}
-
 .moon-icon {
     font-size: 28px;
 }
 
 .dark-mode {
-    color: white;
+    color: #e0e0e0;
 }
 
 .light-mode {
     color: black;
-}
-
-.dark-mode-button {
-    background-color: black;
-    border: 2px solid white;
-}
-
-.light-mode-button {
-    background-color: white;
-    border: 2px solid black;
 }
 
 .menu::-webkit-scrollbar {
@@ -182,3 +176,11 @@ html, body {
     -ms-overflow-style: none;
     scrollbar-width: none;
 } 
+
+.navbar-button:hover, .theme-button:hover, .button:hover, .flashcard:hover {
+    cursor: pointer;
+}
+
+.navbar-button:hover, .navbar-link:hover {
+    transform: scale(1.07);
+}

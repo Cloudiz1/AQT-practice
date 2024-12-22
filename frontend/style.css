@@ -168,7 +168,7 @@ html, body {
     color: black;
 }
 
-.menu::-webkit-scrollbar {
+::-webkit-scrollbar {
     display: none;
 }
 

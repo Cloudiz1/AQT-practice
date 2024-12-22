@@ -1,5 +1,6 @@
-import {singles, multis} from "./init.js"
-let all_questions;
+import {singles, multis} from "./init.js";
+import {read_cookie, set_cookie} from "./cookies.js"
+let all_questions = [];
 let index;
 
 class Single_Question {
@@ -36,9 +37,12 @@ function obj_to_question_class(question)
 }
 
 function shuffle_array(array) {
-    for (let i = array.length - 1; i >= 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
+    for (let iter = 0; iter < 5; iter++)
+    {
+        for (let i = array.length - 1; i >= 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
     }
 }
 
@@ -93,6 +97,13 @@ function get_question_from_index(index)
 
 window.get_next_question = function()
 {
+    if (all_questions.length == 0)
+    {
+        populate_text_area("You unchecked all the filters, what did you expect?")
+        populate_prompt_area("")
+        return
+    }
+
     if (multi_question_index >= 0) 
     {
         multi_question_index += 1
@@ -120,6 +131,12 @@ window.get_next_question = function()
 
 window.get_previous_question = function() 
 {
+    if (all_questions.length == 0)
+    {
+        alert("So like, what did you expect?")
+        return
+    }
+
     multi_question_index -= 1
 
     if (multi_question_index < 0) { // at the end of multi question or its a single question
@@ -162,18 +179,76 @@ function init_flashcards() {
         multis[i] = obj_to_question_class(multis[i])
     }
 
-    all_questions = singles.concat(multis)
+    let question_types = read_cookie("question_types")
+    if (question_types == "")
+    {
+        return
+    }
 
-    shuffle_array(singles)
-    shuffle_array(multis)
+    if (question_types.includes("single"))
+    {
+        all_questions = all_questions.concat(singles)
+    }
+
+    if (question_types.includes("multi"))
+    {
+        all_questions = all_questions.concat(multis)
+    }
+
     shuffle_array(all_questions)
-
     index = -1;
+}
+
+function refresh_flashcards()
+{
+    index = -1;
+    shuffle_array(all_questions)
+    get_next_question()
+    multi_question_index = -1
+}
+
+function remove_type(req_type) {
+    for (let i = all_questions.length - 1; i >= 0; i--)
+    {
+        if (all_questions[i].type == req_type)
+        {
+            all_questions.splice(i, 1);
+        }
+    }
+
+    let cookie_value = read_cookie("question_types").replaceAll(req_type, "").replaceAll(",", "")
+    set_cookie("question_types", cookie_value);
+
+    refresh_flashcards()
+}
+
+function add_type(req_type) {
+    if (req_type == "single")
+    {
+        all_questions = all_questions.concat(singles)
+    }
+
+    if (req_type == "multi")
+    {
+        all_questions = all_questions.concat(multis)
+    }
+
+    let cookie_value = read_cookie("question_types") 
+    if (cookie_value != "")
+    {
+        cookie_value += ","
+    }
+    cookie_value += req_type
+
+    set_cookie("question_types", cookie_value)
+
+    refresh_flashcards()
 }
 
 document.getElementById("flashcard").addEventListener("click", flip_card)
 
 export {
-    init_flashcards
+    init_flashcards,
+    remove_type,
+    add_type
 }
-

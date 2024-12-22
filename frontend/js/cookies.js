@@ -10,10 +10,24 @@ function read_cookie(cname)
 {
     return document.cookie.split("; ")
     .find((cookie) => cookie.startsWith(cname + "="))
-    ?.split("=")[1];
+    .split("=")[1];
+}
+
+function cookie_exists(cname)
+{
+    try 
+    {
+        read_cookie(cname)
+        return true
+    }
+    catch 
+    {
+        return false
+    }
 }
 
 export {
     set_cookie,
-    read_cookie
+    read_cookie,
+    cookie_exists
 }

@@ -4,15 +4,18 @@ let mode = "light"
 let curr_color_index = 0;
 
 let theme_buttons = []
+let theme_elements = []; // elements that have to switch to and from light mode/darkmode
 const keys = ["red", "green", "blue", "purple", "pink", "tan", "default"]
 const themes_div = document.getElementById("theme-buttons-div")
 const flashcard = document.getElementById("flashcard")
 const buttons = document.getElementsByClassName("button")
 const menus = document.getElementsByClassName("menu")
 const moon_icon = document.getElementById("moon-icon")
+
 const icons = document.getElementsByClassName("icon")
 const button_icons = document.getElementsByClassName("button-icon")
 const text = document.getElementsByTagName("p")
+const labels = document.getElementsByTagName("label")
 const headers = document.getElementsByTagName("h2")
 
 // add + remove class for list
@@ -62,6 +65,7 @@ window.change_mode = function(change_to = null)
         ARCforarray(button_icons, "dark-mode", "light-mode");
         ARCforarray(text, "dark-mode", "light-mode");
         ARCforarray(headers, "dark-mode", "light-mode");
+        ARCforarray(labels, "dark-mode", "light-mode")
     }
     else
     {
@@ -73,6 +77,7 @@ window.change_mode = function(change_to = null)
         ARCforarray(button_icons, "light-mode", "dark-mode");
         ARCforarray(text, "light-mode", "dark-mode");
         ARCforarray(headers, "light-mode", "dark-mode");
+        ARCforarray(labels, "light-mode", "dark-mode");
     }
 
     change_theme(curr_color_index);
@@ -96,6 +101,7 @@ function init_themes()
     set_theme_button_bg()
 }
 
+// updates theme colors when the mode switches
 function set_theme_button_bg() {
     for (let i = 0; i < theme_buttons.length; i++)
     {
@@ -105,5 +111,6 @@ function set_theme_button_bg() {
 }
 
 export {
-    init_themes
+    init_themes,
+    keys
 }

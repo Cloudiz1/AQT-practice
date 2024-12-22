@@ -11,6 +11,7 @@
     <script src="js/flashcard.js" type="module" defer></script>
     <script src="js/menus.js" type="module" defer></script>
     <script src="js/themes.js" type="module" defer></script>
+    <script src="js/filters.js" type="module" defer></script>
     <link href="./style.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/c400fd927b.js" crossorigin="anonymous"></script>
 </head>
@@ -55,8 +56,14 @@
         <h2 class="menu-title">Settings</h2>
 
         <h2 class="menu-heading">Filters: </h2>
-        <div class="menu-div">
-            <p>Not currently implemented.</p>
+        <div class="menu-div filters-div">
+            <label for="singles-checkbox">Single part questions: </label>
+            <input type="checkbox" id="singles-checkbox" name="singles-checkbox">
+
+            <br>
+
+            <label for="mutlis-checkbox">Multi part questions: </label>
+            <input type="checkbox" id="multis-checkbox" name="multis-checkbox">
         </div>
 
         <h2 class="menu-heading">Themes: </h2>

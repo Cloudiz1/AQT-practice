@@ -1,5 +1,7 @@
 import { init_flashcards } from "./flashcard.js";
-import { init_themes } from "./themes.js";
+import { init_themes, keys } from "./themes.js";
+import { init_filters } from "./filters.js";
+import { set_cookie, cookie_exists } from "./cookies.js";
 
 let singles, multis, themes;
 const questions_path = "data/questions.json"
@@ -49,6 +51,16 @@ read_json(questions_path, "utf-16")
 
     get_next_question() // generates first question
 })
+
+// makes cookie exist if they don't
+if (!cookie_exists("color_index") || !cookie_exists("mode") || !cookie_exists("question_types"))
+{
+    set_cookie("color_index", keys.indexOf("default"))
+    set_cookie("mode", "light")
+    set_cookie("question_types", "single,multi")
+}
+
+init_filters()
 
 export {
     singles,

@@ -1,0 +1,166 @@
+@media screen and (min-width: 1024px) {
+    .icon, .moon-icon {
+        font-size: 30px;
+    }
+
+    .main-content {
+        width: 50%;
+        margin: auto;
+        height: 50dvh;
+        padding-top: 17.5dvh;
+        padding-bottom: 50dvh;
+    }
+    
+    .text-area {
+        font-size: 21px; 
+        padding: 20px;
+    }
+
+    #prompt-area {
+        font-size: 18px;
+    }
+    
+    .prompt-area-div {
+        height: 10dvh;
+    }
+
+    .menu {
+        height: 50dvh;
+        top: 22dvh;
+    }
+
+    .menu-div {
+        margin: 10px 40px;
+        width: 80%;
+    }
+
+    .menu-heading {
+        margin: 0;
+        margin-left: 30px;
+    }
+
+    .menu-title {
+        margin: 7.5px 20px;
+    }
+    
+    .button {
+        width: 65px;
+        height: 65px;
+    }
+
+    /* make this not constant */
+    .button-icon {
+        font-size: 22px;    
+    }    
+
+    .next-button, .previous-button {
+        top: 48dvh;
+    }
+
+    .next-button {
+        right: calc(20vw - 50px);
+    }
+    
+    .previous-button {
+        left: calc(20vw - 50px);
+    }
+
+    .theme-button {
+        width: 50px;
+        height: 50px;
+    }
+
+    label {
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+    .icon, .moon-icon {
+        font-size: 25px;
+    }
+
+    .main-content {
+        width: 87.5%;
+        margin: auto;
+        height: 55dvh;
+        padding-top: 6dvh;
+        padding-bottom: 40vh;
+    }
+    
+    #prompt-area {
+        font-size: 15px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .prompt-area-div {
+        margin-top: 2vh;
+        height: 12.5dvh;
+        margin-bottom: 20px;
+    }
+
+    .text-area {
+        font-size: 17px; 
+        padding: 20px;
+    }
+    
+    .menu {
+        width: 80vw;
+        height: 50dvh;
+        top: 22dvh;
+    }
+
+    .menu-div {
+        margin: 5px 35px;
+        width: 80%;
+    }
+
+    .menu-heading {
+        margin: 0;
+        margin-left: 25px;
+        font-size: 21.5px;
+    }
+
+    .menu-title {
+        font-size: 24px;
+        margin: 5px 15px;
+    }
+    
+    /* make this not constant */
+    .button-icon {
+        font-size: 22px;    
+    }    
+
+    .next-button, .previous-button {
+        position: fixed;
+        bottom: 10dvh;
+    }
+
+    .button {
+        width: 9dvh;
+        height: 9dvh;
+    }
+
+    .next-button {
+        right: 10vw;
+    }
+
+    .previous-button {
+        left: 10vw;
+    }
+
+    .theme-button {
+        width: 45px;
+        height: 45px;
+    }
+} 
+
+@media screen and (min-width: 625px)
+{
+    .menu {
+        width: 500px;
+    }
+}

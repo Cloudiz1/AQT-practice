@@ -12,7 +12,8 @@
     <script src="js/menus.js" type="module" defer></script>
     <script src="js/themes.js" type="module" defer></script>
     <script src="js/filters.js" type="module" defer></script>
-    <link href="./style.css" rel="stylesheet">
+    <link href="./main.css" rel="stylesheet">
+    <link href="./responsive.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/c400fd927b.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -40,13 +41,13 @@
                 <p class="text-area" id="text-area"></p>
             </div>
     
-            <button onclick="get_previous_question()" class="button previous-button">
-                <i class="fa-solid fa-chevron-left button-icon"></i>
-            </button>
-            <button onclick="get_next_question()" class="button next-button">
-                <i class="fa-solid fa-chevron-right button-icon"></i>
-            </button>
         </div>
+        <button onclick="get_previous_question()" class="button previous-button">
+            <i class="fa-solid fa-chevron-left button-icon light-mode"></i>
+        </button>
+        <button onclick="get_next_question()" class="button next-button">
+            <i class="fa-solid fa-chevron-right button-icon light-mode"></i>
+        </button>
     </div>
 
     <div class="menu" id="settings-menu">
@@ -75,16 +76,16 @@
         <button class="close-button navbar-button" onclick="close_settings('info')">
             <i class="fa-solid fa-x icon"></i>
         </button>
-        <h2 class="menu-title">Info: </h2>
+        <h2 class="menu-title">Information </h2>
         <h2 class="menu-heading">About: </h2>
         <div class="menu-div">
-            <p>A simple website to practice AQT style questions. The questions are grabbed from the official AQT website. These questions can be found <a href="https://www.naqt.com/samples/" target="_blank">here: </a></p>
+            <p class="menu-text">A simple website to practice AQT style questions. The questions are grabbed from the official AQT website. These questions can be found <a href="https://www.naqt.com/samples/" target="_blank">here: </a></p>
         </div>
 
         <h2 class="menu-heading">Contact Me: </h2>
 
         <div class="menu-div">
-            <p>If there are any issues, suggestions, or you just want to contact me, email me at <a class="redirect" href="mailto:vincentni2007@gmail.com">vincentni2007@gmail.com</a>.</p>
+            <p class="menu-text">If there are any issues, suggestions, or you just want to contact me, email me at <a class="redirect" href="mailto:vincentni2007@gmail.com">vincentni2007@gmail.com</a>.</p>
         </div>
     </div>
 </body>

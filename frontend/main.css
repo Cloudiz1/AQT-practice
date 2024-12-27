@@ -10,8 +10,23 @@
 html, body {
     margin: 0px;
     padding: 0px;
-    background-color: #d7cdec;
     overflow-y: hidden;
+
+    width: 100%;
+    position: fixed;  /* This prevents bounce scrolling on iOS */
+    overscroll-behavior: none;  /* Prevents pull-to-refresh */
+}
+
+html {
+    height: -webkit-fill-available;
+    height: 100%;
+}
+
+body {
+    min-height: -webkit-fill-available;
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
 }
 
 .navbar {
@@ -30,16 +45,7 @@ html, body {
 }
 
 .icon {
-    font-size: 30px;
     color: black;
-}
-
-.main-content {
-    width: 50%;
-    margin: auto;
-    height: 50vh;
-    padding-top: 17.5vh;
-    padding-bottom: 50vh;
 }
 
 .flashcard {
@@ -47,80 +53,46 @@ html, body {
     height: 100%;
     overflow-y: scroll;
     word-wrap: break-word;
-    background-color: #cac0e2;
     border-radius: 25px;
 }
 
 .text-area {
     width: calc(100%-40px);
     height: calc(100%-40px);
-    font-size: 21px;
     margin: 0px;
-    padding: 20px;
     text-align: center;
     justify-content: center;
-    color: #303030;
 }
 
 .prompt-area-div {
-    height: 10vh;
     overflow-y: scroll;
 }
 
 .button {
-    width: 20%;
     margin: auto;
-    margin-top: 45px;
-    width: 65px;
-    height: 65px;
     border-radius: 100%;
-    background: #cac0e2;
     border: none;
 }
 
-.button-icon {
-    font-size: 22px;
-}
-
-.next-button {
+.next-button, .previous-button {
     position: absolute;
-    top: 44vh;
-    right: 18vw;
-}
-
-.previous-button {
-    position: absolute;
-    top: 44vh;
-    left: 18vw;
 }
 
 .menu {
     overflow-y: scroll;
-    width: 500px;
-    height: 50vh;
     position: absolute;
-    background-color: #b6a8d6;
     margin-left: auto;
     margin-right: auto;
     left: 0;
     right: 0;
-    top: 22vh;
     display: none;
     opacity: 0;
     border-radius: 25px;
 }
 
-.menu-title {
-    margin: 10px;
-}
-
-.menu-heading {
-    margin: 0;
-    margin-left: 20px;
-}
-
-.menu-div {
-    padding-left: 40px;
+.menu-text {
+    margin: 0px;
+    padding: 0px;
 }
 
 .close-button {
@@ -150,14 +122,8 @@ html, body {
 }
 
 .theme-button {
-    width: 50px;
-    height: 50px;
     border: solid 2px black;
     border-radius: 100%;
-}
-
-.moon-icon {
-    font-size: 28px;
 }
 
 .dark-mode {
@@ -172,7 +138,7 @@ html, body {
     display: none;
 }
 
-.menu {
+* {
     -ms-overflow-style: none;
     scrollbar-width: none;
 } 
@@ -183,4 +149,8 @@ html, body {
 
 .navbar-button:hover, .navbar-link:hover {
     transform: scale(1.07);
+}
+
+input {
+    transform: scale(1.5)
 }

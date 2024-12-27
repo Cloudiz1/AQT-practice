@@ -49,16 +49,16 @@ function shuffle_array(array) {
 function generate_next_question()
 {
     index += 1;
+
+    if (index >= all_questions.length)
+    {
+        index = 0;
+    }
+
     return all_questions[index];
 }
 
 function generate_prev_question() {
-    if (index == 0)
-    {
-        alert("Can not go back any further.")
-        return singles[0]
-    }
-
     index -= 1;
     return all_questions[index];
 }
@@ -108,7 +108,7 @@ window.get_next_question = function()
     {
         multi_question_index += 1
     }
-    
+
     if (multi_question_index > 2 || multi_question_index == -1)
     {
         current_question = generate_next_question()
@@ -137,6 +137,12 @@ window.get_previous_question = function()
         return
     }
 
+    if (index == 0 && multi_question_index <= 0)
+    {
+        alert("Can not go back any further.")
+        return
+    }
+
     multi_question_index -= 1
 
     if (multi_question_index < 0) { // at the end of multi question or its a single question
@@ -158,13 +164,16 @@ window.get_previous_question = function()
 }
 
 window.flip_card = function() {
-    if (showing_answer) {
-        populate_text_area(get_question_from_index(multi_question_index).question)
-        showing_answer = false;
-    }
-    else {
-        populate_text_area(get_question_from_index(multi_question_index).answer)
-        showing_answer = true;
+    if (all_questions.length > 0)
+    {
+        if (showing_answer) {
+            populate_text_area(get_question_from_index(multi_question_index).question)
+            showing_answer = false;
+        }
+        else {
+            populate_text_area(get_question_from_index(multi_question_index).answer)
+            showing_answer = true;
+        }
     }
 }
 
@@ -197,14 +206,16 @@ function init_flashcards() {
 
     shuffle_array(all_questions)
     index = -1;
+
+    console.log(all_questions.length)
 }
 
 function refresh_flashcards()
 {
     index = -1;
+    multi_question_index = -1;
     shuffle_array(all_questions)
     get_next_question()
-    multi_question_index = -1
 }
 
 function remove_type(req_type) {

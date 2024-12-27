@@ -44,17 +44,17 @@ def seperate_answer(question):
     return Question(question[0].strip(), question[1].strip())
 
 def seperate_multi_questions(question):
-    question = question.split("A.")
+    question = question.split("  A.")
     prompt = question[0].strip()
     
     del question[0]
     question = "".join(question)
-    question = question.split("B.")
+    question = question.split("  B.")
     A = seperate_answer(question[0])
     
     del question[0]
     question = "".join(question)
-    question = question.split("C.")
+    question = question.split("  C.")
     B = seperate_answer(question[0])
     
     del question[0]

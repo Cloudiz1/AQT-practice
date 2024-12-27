@@ -1,7 +1,7 @@
 ## AQT Quiz web app
 This is a simple web app which converts the sample questions (in the form of pdfs) from the NAQT website to flashcards.
 
-features:
+### features:
 - flashcards (crazy)
     - simple question and answer pairs
     - multi-part questions with a prompt
